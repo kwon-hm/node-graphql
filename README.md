@@ -1,1 +1,1 @@
-# node-graphql
+# node-graphql CRUD
