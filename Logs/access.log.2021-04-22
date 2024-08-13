@@ -1,0 +1,760 @@
+2021-04-22 10:10:47 [INFO] - Server listenling <dev> on port 8090
+2021-04-22 10:11:16 [INFO] - MariaDB pool.getConnection error: Error: connect ECONNREFUSED 127.0.0.1:3306
+2021-04-22 10:11:46 [INFO] - MariaDB connection succeed.
+2021-04-22 10:11:46 [INFO] - MariaDB connection end.
+2021-04-22 10:11:46 [INFO] - MariaDB connection succeed.
+2021-04-22 10:11:46 [INFO] - MariaDB connection succeed.
+2021-04-22 10:11:46 [INFO] - MariaDB connection end.
+2021-04-22 10:11:46 [INFO] - getUserByIdExe executed.
+2021-04-22 10:11:46 [INFO] - MariaDB [ getPostsListExe ] executed.
+2021-04-22 10:11:51 [INFO] - MariaDB connection succeed.
+2021-04-22 10:11:51 [INFO] - MariaDB [ getPostsListExe ] executed.
+2021-04-22 10:11:53 [INFO] - MariaDB connection succeed.
+2021-04-22 10:11:53 [INFO] - MariaDB [ getPostsListExe ] executed.
+2021-04-22 10:11:54 [INFO] - MariaDB connection succeed.
+2021-04-22 10:11:54 [INFO] - MariaDB [ getPostsListExe ] executed.
+2021-04-22 10:11:55 [INFO] - MariaDB connection succeed.
+2021-04-22 10:11:55 [INFO] - MariaDB [ getPostsListExe ] executed.
+2021-04-22 10:11:55 [INFO] - MariaDB connection succeed.
+2021-04-22 10:11:55 [INFO] - MariaDB [ getPostsListExe ] executed.
+2021-04-22 10:11:56 [INFO] - MariaDB connection succeed.
+2021-04-22 10:11:56 [INFO] - MariaDB [ getPostsListExe ] executed.
+2021-04-22 10:11:57 [INFO] - MariaDB connection succeed.
+2021-04-22 10:11:57 [INFO] - MariaDB [ getPostsListExe ] executed.
+2021-04-22 10:12:00 [INFO] - MariaDB connection succeed.
+2021-04-22 10:12:00 [INFO] - MariaDB [ getPostsListExe ] executed.
+2021-04-22 10:12:04 [INFO] - MariaDB connection succeed.
+2021-04-22 10:12:04 [INFO] - MariaDB connection succeed.
+2021-04-22 10:12:04 [INFO] - MariaDB connection end.
+2021-04-22 10:12:04 [INFO] - MariaDB [ getReadPostExe ] executed.
+2021-04-22 10:12:04 [INFO] - MariaDB connection end.
+2021-04-22 10:12:04 [INFO] - getUserByIdExe executed.
+2021-04-22 10:13:08 [INFO] - MariaDB connection succeed.
+2021-04-22 10:13:08 [INFO] - MariaDB [ UpdatePostExe ] executed.
+2021-04-22 10:13:08 [INFO] - UpdatePost success : affectedRows = 0
+2021-04-22 10:13:08 [INFO] - MariaDB connection end.
+2021-04-22 10:13:09 [INFO] - MariaDB connection succeed.
+2021-04-22 10:13:09 [INFO] - MariaDB [ UpdatePostExe ] executed.
+2021-04-22 10:13:09 [INFO] - UpdatePost success : affectedRows = 0
+2021-04-22 10:13:09 [INFO] - MariaDB connection end.
+2021-04-22 10:13:18 [INFO] - MariaDB connection succeed.
+2021-04-22 10:13:18 [INFO] - MariaDB [ UpdatePostExe ] executed.
+2021-04-22 10:13:18 [INFO] - UpdatePost success : affectedRows = 0
+2021-04-22 10:13:18 [INFO] - MariaDB connection end.
+2021-04-22 10:13:28 [INFO] - MariaDB connection succeed.
+2021-04-22 10:13:28 [INFO] - MariaDB connection succeed.
+2021-04-22 10:13:28 [INFO] - MariaDB connection end.
+2021-04-22 10:13:28 [INFO] - getUserByIdExe executed.
+2021-04-22 10:13:28 [INFO] - MariaDB [ getPostsListExe ] executed.
+2021-04-22 10:13:29 [INFO] - MariaDB connection succeed.
+2021-04-22 10:13:29 [INFO] - MariaDB connection succeed.
+2021-04-22 10:13:29 [INFO] - MariaDB connection end.
+2021-04-22 10:13:29 [INFO] - MariaDB [ getReadPostExe ] executed.
+2021-04-22 10:13:29 [INFO] - MariaDB connection end.
+2021-04-22 10:13:29 [INFO] - getUserByIdExe executed.
+2021-04-22 10:14:09 [INFO] - MariaDB connection succeed.
+2021-04-22 10:14:09 [INFO] - MariaDB [ UpdatePostExe ] executed.
+2021-04-22 10:14:09 [INFO] - UpdatePost success : affectedRows = 0
+2021-04-22 10:14:09 [INFO] - MariaDB connection end.
+2021-04-22 10:14:47 [INFO] - MariaDB connection succeed.
+2021-04-22 10:14:47 [INFO] - MariaDB connection succeed.
+2021-04-22 10:14:47 [INFO] - MariaDB connection end.
+2021-04-22 10:14:47 [INFO] - MariaDB [ getReadPostExe ] executed.
+2021-04-22 10:14:47 [INFO] - MariaDB connection end.
+2021-04-22 10:14:47 [INFO] - getUserByIdExe executed.
+2021-04-22 10:14:49 [INFO] - MariaDB connection succeed.
+2021-04-22 10:14:49 [INFO] - MariaDB [ UpdatePostExe ] executed.
+2021-04-22 10:14:49 [INFO] - UpdatePost success : affectedRows = 0
+2021-04-22 10:14:49 [INFO] - MariaDB connection end.
+2021-04-22 10:14:56 [INFO] - MariaDB connection succeed.
+2021-04-22 10:14:56 [INFO] - MariaDB connection end.
+2021-04-22 10:14:56 [INFO] - getUserByIdExe executed.
+2021-04-22 10:14:56 [INFO] - MariaDB connection succeed.
+2021-04-22 10:14:56 [INFO] - MariaDB [ getPostsListExe ] executed.
+2021-04-22 10:14:57 [INFO] - MariaDB connection succeed.
+2021-04-22 10:14:57 [INFO] - MariaDB connection succeed.
+2021-04-22 10:14:57 [INFO] - MariaDB connection end.
+2021-04-22 10:14:57 [INFO] - MariaDB [ getReadPostExe ] executed.
+2021-04-22 10:14:57 [INFO] - MariaDB connection end.
+2021-04-22 10:14:57 [INFO] - getUserByIdExe executed.
+2021-04-22 10:14:59 [INFO] - MariaDB connection succeed.
+2021-04-22 10:14:59 [INFO] - MariaDB [ UpdatePostExe ] executed.
+2021-04-22 10:14:59 [INFO] - UpdatePost success : affectedRows = 0
+2021-04-22 10:14:59 [INFO] - MariaDB connection end.
+2021-04-22 10:15:01 [INFO] - MariaDB connection succeed.
+2021-04-22 10:15:01 [INFO] - MariaDB connection succeed.
+2021-04-22 10:15:01 [INFO] - MariaDB connection end.
+2021-04-22 10:15:01 [INFO] - getUserByIdExe executed.
+2021-04-22 10:15:01 [INFO] - MariaDB [ getPostsListExe ] executed.
+2021-04-22 10:15:33 [INFO] - MariaDB connection succeed.
+2021-04-22 10:15:33 [INFO] - MariaDB connection succeed.
+2021-04-22 10:15:33 [INFO] - MariaDB connection end.
+2021-04-22 10:15:33 [INFO] - getUserByIdExe executed.
+2021-04-22 10:15:33 [INFO] - MariaDB [ getPostsListExe ] executed.
+2021-04-22 10:15:34 [INFO] - MariaDB connection succeed.
+2021-04-22 10:15:34 [INFO] - MariaDB connection succeed.
+2021-04-22 10:15:34 [INFO] - MariaDB connection end.
+2021-04-22 10:15:34 [INFO] - MariaDB [ getReadPostExe ] executed.
+2021-04-22 10:15:34 [INFO] - MariaDB connection end.
+2021-04-22 10:15:34 [INFO] - getUserByIdExe executed.
+2021-04-22 10:15:37 [INFO] - MariaDB connection succeed.
+2021-04-22 10:15:37 [INFO] - MariaDB [ UpdatePostExe ] executed.
+2021-04-22 10:15:37 [INFO] - UpdatePost success : affectedRows = 0
+2021-04-22 10:15:37 [INFO] - MariaDB connection end.
+2021-04-22 10:15:39 [INFO] - MariaDB connection succeed.
+2021-04-22 10:15:39 [INFO] - MariaDB [ UpdatePostExe ] executed.
+2021-04-22 10:15:39 [INFO] - UpdatePost success : affectedRows = 0
+2021-04-22 10:15:39 [INFO] - MariaDB connection end.
+2021-04-22 10:15:54 [INFO] - MariaDB connection succeed.
+2021-04-22 10:15:54 [INFO] - MariaDB connection succeed.
+2021-04-22 10:15:54 [INFO] - MariaDB connection end.
+2021-04-22 10:15:54 [INFO] - MariaDB [ getReadPostExe ] executed.
+2021-04-22 10:15:54 [INFO] - MariaDB connection end.
+2021-04-22 10:15:54 [INFO] - getUserByIdExe executed.
+2021-04-22 10:15:55 [INFO] - MariaDB connection succeed.
+2021-04-22 10:15:55 [INFO] - MariaDB [ UpdatePostExe ] executed.
+2021-04-22 10:15:55 [INFO] - UpdatePost success : affectedRows = 0
+2021-04-22 10:15:55 [INFO] - MariaDB connection end.
+2021-04-22 10:16:28 [INFO] - MariaDB connection succeed.
+2021-04-22 10:16:28 [INFO] - MariaDB connection end.
+2021-04-22 10:16:28 [INFO] - MariaDB [ getReadPostExe ] executed.
+2021-04-22 10:16:28 [INFO] - MariaDB connection succeed.
+2021-04-22 10:16:28 [INFO] - MariaDB connection end.
+2021-04-22 10:16:28 [INFO] - getUserByIdExe executed.
+2021-04-22 10:16:32 [INFO] - MariaDB connection succeed.
+2021-04-22 10:16:32 [INFO] - MariaDB [ UpdatePostExe ] executed.
+2021-04-22 10:16:32 [INFO] - UpdatePost success : affectedRows = 0
+2021-04-22 10:16:32 [INFO] - MariaDB connection end.
+2021-04-22 10:16:52 [INFO] - MariaDB connection succeed.
+2021-04-22 10:16:52 [INFO] - MariaDB connection succeed.
+2021-04-22 10:16:52 [INFO] - MariaDB connection end.
+2021-04-22 10:16:52 [INFO] - MariaDB [ getReadPostExe ] executed.
+2021-04-22 10:16:52 [INFO] - MariaDB connection end.
+2021-04-22 10:16:52 [INFO] - getUserByIdExe executed.
+2021-04-22 10:16:54 [INFO] - MariaDB connection succeed.
+2021-04-22 10:16:54 [INFO] - MariaDB [ UpdatePostExe ] executed.
+2021-04-22 10:16:54 [INFO] - UpdatePost success : affectedRows = 0
+2021-04-22 10:16:54 [INFO] - MariaDB connection end.
+2021-04-22 10:17:10 [INFO] - MariaDB connection succeed.
+2021-04-22 10:17:10 [INFO] - MariaDB connection end.
+2021-04-22 10:17:10 [INFO] - MariaDB [ getReadPostExe ] executed.
+2021-04-22 10:17:10 [INFO] - MariaDB connection succeed.
+2021-04-22 10:17:10 [INFO] - MariaDB connection end.
+2021-04-22 10:17:10 [INFO] - getUserByIdExe executed.
+2021-04-22 10:17:14 [INFO] - MariaDB connection succeed.
+2021-04-22 10:17:14 [INFO] - MariaDB [ UpdatePostExe ] executed.
+2021-04-22 10:17:14 [INFO] - UpdatePost success : affectedRows = 0
+2021-04-22 10:17:14 [INFO] - MariaDB connection end.
+2021-04-22 10:17:16 [INFO] - MariaDB connection succeed.
+2021-04-22 10:17:16 [INFO] - MariaDB connection succeed.
+2021-04-22 10:17:16 [INFO] - MariaDB connection end.
+2021-04-22 10:17:16 [INFO] - MariaDB [ getReadPostExe ] executed.
+2021-04-22 10:17:16 [INFO] - MariaDB connection end.
+2021-04-22 10:17:16 [INFO] - getUserByIdExe executed.
+2021-04-22 10:17:18 [INFO] - MariaDB connection succeed.
+2021-04-22 10:17:18 [INFO] - MariaDB [ UpdatePostExe ] executed.
+2021-04-22 10:17:18 [INFO] - UpdatePost success : affectedRows = 0
+2021-04-22 10:17:18 [INFO] - MariaDB connection end.
+2021-04-22 10:32:25 [INFO] - Server listenling <dev> on port 8090
+2021-04-22 10:32:37 [INFO] - MariaDB connection succeed.
+2021-04-22 10:32:37 [INFO] - MariaDB connection succeed.
+2021-04-22 10:32:37 [INFO] - MariaDB connection end.
+2021-04-22 10:32:37 [INFO] - MariaDB [ getReadPostExe ] executed.
+2021-04-22 10:32:37 [INFO] - MariaDB connection end.
+2021-04-22 10:32:37 [INFO] - getUserByIdExe executed.
+2021-04-22 10:32:42 [INFO] - MariaDB connection succeed.
+2021-04-22 10:32:42 [INFO] - MariaDB connection succeed.
+2021-04-22 10:32:42 [INFO] - MariaDB connection end.
+2021-04-22 10:32:42 [INFO] - MariaDB [ getReadPostExe ] executed.
+2021-04-22 10:32:42 [INFO] - MariaDB connection end.
+2021-04-22 10:32:42 [INFO] - getUserByIdExe executed.
+2021-04-22 10:32:46 [INFO] - MariaDB connection succeed.
+2021-04-22 10:32:46 [INFO] - MariaDB [ UpdatePostExe ] executed.
+2021-04-22 10:32:46 [INFO] - UpdatePost success : affectedRows = 0
+2021-04-22 10:32:46 [INFO] - MariaDB connection end.
+2021-04-22 10:32:48 [INFO] - MariaDB connection succeed.
+2021-04-22 10:32:48 [INFO] - MariaDB [ UpdatePostExe ] executed.
+2021-04-22 10:32:48 [INFO] - UpdatePost success : affectedRows = 0
+2021-04-22 10:32:48 [INFO] - MariaDB connection end.
+2021-04-22 10:33:37 [INFO] - MariaDB connection succeed.
+2021-04-22 10:33:37 [INFO] - MariaDB connection end.
+2021-04-22 10:33:37 [INFO] - MariaDB [ getReadPostExe ] executed.
+2021-04-22 10:33:37 [INFO] - MariaDB connection succeed.
+2021-04-22 10:33:37 [INFO] - MariaDB connection end.
+2021-04-22 10:33:37 [INFO] - getUserByIdExe executed.
+2021-04-22 10:33:39 [INFO] - MariaDB connection succeed.
+2021-04-22 10:33:39 [INFO] - MariaDB connection succeed.
+2021-04-22 10:33:39 [INFO] - MariaDB connection end.
+2021-04-22 10:33:39 [INFO] - MariaDB [ getReadPostExe ] executed.
+2021-04-22 10:33:39 [INFO] - MariaDB connection end.
+2021-04-22 10:33:39 [INFO] - getUserByIdExe executed.
+2021-04-22 10:33:44 [INFO] - MariaDB connection succeed.
+2021-04-22 10:33:44 [INFO] - MariaDB [ UpdatePostExe ] executed.
+2021-04-22 10:33:44 [INFO] - UpdatePost success : affectedRows = 0
+2021-04-22 10:33:44 [INFO] - MariaDB connection end.
+2021-04-22 10:33:53 [INFO] - MariaDB connection succeed.
+2021-04-22 10:33:53 [INFO] - MariaDB [ UpdatePostExe ] executed.
+2021-04-22 10:33:53 [INFO] - UpdatePost success : affectedRows = 0
+2021-04-22 10:33:53 [INFO] - MariaDB connection end.
+2021-04-22 10:33:56 [INFO] - MariaDB connection succeed.
+2021-04-22 10:33:56 [INFO] - MariaDB [ UpdatePostExe ] executed.
+2021-04-22 10:33:56 [INFO] - UpdatePost success : affectedRows = 0
+2021-04-22 10:33:56 [INFO] - MariaDB connection end.
+2021-04-22 10:34:00 [INFO] - MariaDB connection succeed.
+2021-04-22 10:34:00 [INFO] - MariaDB connection end.
+2021-04-22 10:34:00 [INFO] - MariaDB [ getReadPostExe ] executed.
+2021-04-22 10:34:00 [INFO] - MariaDB connection succeed.
+2021-04-22 10:34:00 [INFO] - MariaDB connection end.
+2021-04-22 10:34:00 [INFO] - getUserByIdExe executed.
+2021-04-22 10:34:04 [INFO] - MariaDB connection succeed.
+2021-04-22 10:34:04 [INFO] - MariaDB [ UpdatePostExe ] executed.
+2021-04-22 10:34:04 [INFO] - UpdatePost success : affectedRows = 0
+2021-04-22 10:34:04 [INFO] - MariaDB connection end.
+2021-04-22 10:34:17 [INFO] - MariaDB connection succeed.
+2021-04-22 10:34:17 [INFO] - MariaDB connection succeed.
+2021-04-22 10:34:17 [INFO] - MariaDB connection end.
+2021-04-22 10:34:17 [INFO] - MariaDB [ getReadPostExe ] executed.
+2021-04-22 10:34:17 [INFO] - MariaDB connection end.
+2021-04-22 10:34:17 [INFO] - getUserByIdExe executed.
+2021-04-22 10:34:23 [INFO] - MariaDB connection succeed.
+2021-04-22 10:34:23 [INFO] - MariaDB [ UpdatePostExe ] executed.
+2021-04-22 10:34:23 [INFO] - UpdatePost success : affectedRows = 0
+2021-04-22 10:34:23 [INFO] - MariaDB connection end.
+2021-04-22 10:37:18 [INFO] - Server listenling <dev> on port 8090
+2021-04-22 10:37:31 [INFO] - MariaDB connection succeed.
+2021-04-22 10:37:31 [INFO] - MariaDB connection succeed.
+2021-04-22 10:37:31 [INFO] - MariaDB connection end.
+2021-04-22 10:37:31 [INFO] - getUserByIdExe executed.
+2021-04-22 10:37:31 [INFO] - MariaDB [ getPostsListExe ] executed.
+2021-04-22 10:37:32 [INFO] - MariaDB connection succeed.
+2021-04-22 10:37:32 [INFO] - MariaDB connection succeed.
+2021-04-22 10:37:32 [INFO] - MariaDB connection end.
+2021-04-22 10:37:32 [INFO] - MariaDB [ getReadPostExe ] executed.
+2021-04-22 10:37:32 [INFO] - MariaDB connection end.
+2021-04-22 10:37:32 [INFO] - getUserByIdExe executed.
+2021-04-22 10:37:33 [INFO] - MariaDB connection succeed.
+2021-04-22 10:37:33 [INFO] - MariaDB connection succeed.
+2021-04-22 10:37:33 [INFO] - MariaDB connection end.
+2021-04-22 10:37:33 [INFO] - getUserByIdExe executed.
+2021-04-22 10:37:33 [INFO] - MariaDB [ getPostsListExe ] executed.
+2021-04-22 10:37:34 [INFO] - MariaDB connection succeed.
+2021-04-22 10:37:34 [INFO] - MariaDB connection succeed.
+2021-04-22 10:37:34 [INFO] - MariaDB connection end.
+2021-04-22 10:37:34 [INFO] - MariaDB [ getReadPostExe ] executed.
+2021-04-22 10:37:34 [INFO] - MariaDB connection end.
+2021-04-22 10:37:34 [INFO] - getUserByIdExe executed.
+2021-04-22 10:38:18 [INFO] - MariaDB connection succeed.
+2021-04-22 10:38:18 [INFO] - MariaDB [ UpdatePostExe ] executed.
+2021-04-22 10:38:18 [INFO] - UpdatePost success : affectedRows = 0
+2021-04-22 10:38:18 [INFO] - MariaDB connection end.
+2021-04-22 10:38:37 [INFO] - MariaDB connection succeed.
+2021-04-22 10:38:37 [INFO] - MariaDB connection end.
+2021-04-22 10:38:37 [INFO] - getUserByIdExe executed.
+2021-04-22 10:38:37 [INFO] - MariaDB connection succeed.
+2021-04-22 10:38:37 [INFO] - MariaDB [ getPostsListExe ] executed.
+2021-04-22 10:38:38 [INFO] - MariaDB connection succeed.
+2021-04-22 10:38:38 [INFO] - MariaDB connection succeed.
+2021-04-22 10:38:38 [INFO] - MariaDB connection end.
+2021-04-22 10:38:38 [INFO] - MariaDB [ getReadPostExe ] executed.
+2021-04-22 10:38:38 [INFO] - MariaDB connection end.
+2021-04-22 10:38:38 [INFO] - getUserByIdExe executed.
+2021-04-22 10:39:14 [INFO] - Server listenling <dev> on port 8090
+2021-04-22 10:39:18 [INFO] - MariaDB connection succeed.
+2021-04-22 10:39:18 [INFO] - MariaDB [ UpdatePostExe ] executed.
+2021-04-22 10:39:18 [INFO] - UpdatePost success : affectedRows = 1
+2021-04-22 10:39:18 [INFO] - MariaDB connection end.
+2021-04-22 10:39:25 [INFO] - MariaDB connection succeed.
+2021-04-22 10:39:25 [INFO] - MariaDB connection succeed.
+2021-04-22 10:39:25 [INFO] - MariaDB connection end.
+2021-04-22 10:39:25 [INFO] - getUserByIdExe executed.
+2021-04-22 10:39:25 [INFO] - MariaDB [ getPostsListExe ] executed.
+2021-04-22 10:39:27 [INFO] - MariaDB connection succeed.
+2021-04-22 10:39:27 [INFO] - MariaDB connection succeed.
+2021-04-22 10:39:27 [INFO] - MariaDB connection end.
+2021-04-22 10:39:27 [INFO] - MariaDB [ getReadPostExe ] executed.
+2021-04-22 10:39:27 [INFO] - MariaDB connection end.
+2021-04-22 10:39:27 [INFO] - getUserByIdExe executed.
+2021-04-22 10:39:31 [INFO] - MariaDB connection succeed.
+2021-04-22 10:39:31 [INFO] - MariaDB [ UpdatePostExe ] executed.
+2021-04-22 10:39:31 [INFO] - UpdatePost success : affectedRows = 1
+2021-04-22 10:39:31 [INFO] - MariaDB connection end.
+2021-04-22 10:39:32 [INFO] - MariaDB connection succeed.
+2021-04-22 10:39:32 [INFO] - MariaDB connection succeed.
+2021-04-22 10:39:32 [INFO] - MariaDB connection end.
+2021-04-22 10:39:32 [INFO] - getUserByIdExe executed.
+2021-04-22 10:39:32 [INFO] - MariaDB [ getPostsListExe ] executed.
+2021-04-22 10:39:42 [INFO] - MariaDB connection succeed.
+2021-04-22 10:39:42 [INFO] - MariaDB connection succeed.
+2021-04-22 10:39:42 [INFO] - MariaDB connection end.
+2021-04-22 10:39:42 [INFO] - MariaDB [ getReadPostExe ] executed.
+2021-04-22 10:39:42 [INFO] - MariaDB connection end.
+2021-04-22 10:39:42 [INFO] - getUserByIdExe executed.
+2021-04-22 10:39:48 [INFO] - MariaDB connection succeed.
+2021-04-22 10:39:48 [INFO] - MariaDB connection end.
+2021-04-22 10:39:48 [INFO] - getUserByIdExe executed.
+2021-04-22 10:39:48 [INFO] - MariaDB connection succeed.
+2021-04-22 10:39:48 [INFO] - MariaDB [ getPostsListExe ] executed.
+2021-04-22 10:39:50 [INFO] - MariaDB connection succeed.
+2021-04-22 10:39:50 [INFO] - MariaDB connection succeed.
+2021-04-22 10:39:50 [INFO] - MariaDB connection end.
+2021-04-22 10:39:50 [INFO] - MariaDB [ getReadPostExe ] executed.
+2021-04-22 10:39:50 [INFO] - MariaDB connection end.
+2021-04-22 10:39:50 [INFO] - getUserByIdExe executed.
+2021-04-22 10:39:54 [INFO] - MariaDB connection succeed.
+2021-04-22 10:39:54 [INFO] - MariaDB connection succeed.
+2021-04-22 10:39:54 [INFO] - MariaDB connection end.
+2021-04-22 10:39:54 [INFO] - getUserByIdExe executed.
+2021-04-22 10:39:54 [INFO] - MariaDB [ getPostsListExe ] executed.
+2021-04-22 10:40:23 [INFO] - MariaDB connection succeed.
+2021-04-22 10:40:23 [INFO] - MariaDB connection succeed.
+2021-04-22 10:40:23 [INFO] - MariaDB connection end.
+2021-04-22 10:40:23 [INFO] - MariaDB [ getReadPostExe ] executed.
+2021-04-22 10:40:23 [INFO] - MariaDB connection end.
+2021-04-22 10:40:23 [INFO] - getUserByIdExe executed.
+2021-04-22 10:46:45 [INFO] - MariaDB connection succeed.
+2021-04-22 10:46:45 [INFO] - MariaDB connection succeed.
+2021-04-22 10:46:45 [INFO] - MariaDB connection end.
+2021-04-22 10:46:45 [INFO] - getUserByIdExe executed.
+2021-04-22 10:46:45 [INFO] - MariaDB [ getPostsListExe ] executed.
+2021-04-22 10:46:50 [INFO] - MariaDB connection succeed.
+2021-04-22 10:46:50 [INFO] - MariaDB connection end.
+2021-04-22 10:46:50 [INFO] - MariaDB connection succeed.
+2021-04-22 10:46:50 [INFO] - MariaDB connection succeed.
+2021-04-22 10:46:50 [INFO] - MariaDB connection end.
+2021-04-22 10:46:50 [INFO] - getUserByIdExe executed.
+2021-04-22 10:46:50 [INFO] - MariaDB [ getPostsListExe ] executed.
+2021-04-22 10:47:21 [INFO] - MariaDB connection succeed.
+2021-04-22 10:47:21 [INFO] - MariaDB connection end.
+2021-04-22 10:47:21 [INFO] - MariaDB connection succeed.
+2021-04-22 10:47:21 [INFO] - MariaDB connection end.
+2021-04-22 10:47:21 [INFO] - getUserByIdExe executed.
+2021-04-22 10:47:21 [INFO] - MariaDB connection succeed.
+2021-04-22 10:47:21 [INFO] - MariaDB [ getPostsListExe ] executed.
+2021-04-22 10:47:25 [INFO] - MariaDB connection succeed.
+2021-04-22 10:47:25 [INFO] - MariaDB connection succeed.
+2021-04-22 10:47:25 [INFO] - MariaDB connection end.
+2021-04-22 10:47:25 [INFO] - MariaDB [ getReadPostExe ] executed.
+2021-04-22 10:47:25 [INFO] - MariaDB connection end.
+2021-04-22 10:47:25 [INFO] - getUserByIdExe executed.
+2021-04-22 10:47:31 [INFO] - MariaDB connection succeed.
+2021-04-22 10:47:31 [INFO] - MariaDB [ UpdatePostExe ] executed.
+2021-04-22 10:47:31 [INFO] - UpdatePost success : affectedRows = 1
+2021-04-22 10:47:31 [INFO] - MariaDB connection end.
+2021-04-22 10:47:32 [INFO] - MariaDB connection succeed.
+2021-04-22 10:47:32 [INFO] - MariaDB connection succeed.
+2021-04-22 10:47:32 [INFO] - MariaDB connection end.
+2021-04-22 10:47:32 [INFO] - getUserByIdExe executed.
+2021-04-22 10:47:32 [INFO] - MariaDB [ getPostsListExe ] executed.
+2021-04-22 10:47:33 [INFO] - MariaDB connection succeed.
+2021-04-22 10:47:33 [INFO] - MariaDB connection succeed.
+2021-04-22 10:47:33 [INFO] - MariaDB connection end.
+2021-04-22 10:47:33 [INFO] - MariaDB [ getReadPostExe ] executed.
+2021-04-22 10:47:33 [INFO] - MariaDB connection end.
+2021-04-22 10:47:33 [INFO] - getUserByIdExe executed.
+2021-04-22 10:47:36 [INFO] - MariaDB connection succeed.
+2021-04-22 10:47:36 [INFO] - MariaDB [ UpdatePostExe ] executed.
+2021-04-22 10:47:36 [INFO] - UpdatePost success : affectedRows = 1
+2021-04-22 10:47:36 [INFO] - MariaDB connection end.
+2021-04-22 10:47:37 [INFO] - MariaDB connection succeed.
+2021-04-22 10:47:37 [INFO] - MariaDB connection succeed.
+2021-04-22 10:47:37 [INFO] - MariaDB connection end.
+2021-04-22 10:47:37 [INFO] - getUserByIdExe executed.
+2021-04-22 10:47:37 [INFO] - MariaDB [ getPostsListExe ] executed.
+2021-04-22 10:49:45 [INFO] - MariaDB connection succeed.
+2021-04-22 10:49:45 [INFO] - MariaDB connection succeed.
+2021-04-22 10:49:45 [INFO] - MariaDB connection end.
+2021-04-22 10:49:45 [INFO] - getUserByIdExe executed.
+2021-04-22 10:49:45 [INFO] - MariaDB [ getPostsListExe ] executed.
+2021-04-22 10:51:42 [INFO] - MariaDB connection succeed.
+2021-04-22 10:51:42 [INFO] - MariaDB connection succeed.
+2021-04-22 10:51:42 [INFO] - MariaDB connection end.
+2021-04-22 10:51:42 [INFO] - MariaDB [ getReadPostExe ] executed.
+2021-04-22 10:51:42 [INFO] - MariaDB connection end.
+2021-04-22 10:51:42 [INFO] - getUserByIdExe executed.
+2021-04-22 10:51:43 [INFO] - MariaDB connection succeed.
+2021-04-22 10:51:43 [INFO] - MariaDB connection succeed.
+2021-04-22 10:51:43 [INFO] - MariaDB connection end.
+2021-04-22 10:51:43 [INFO] - getUserByIdExe executed.
+2021-04-22 10:51:43 [INFO] - MariaDB [ getPostsListExe ] executed.
+2021-04-22 10:51:44 [INFO] - MariaDB connection succeed.
+2021-04-22 10:51:44 [INFO] - MariaDB connection succeed.
+2021-04-22 10:51:44 [INFO] - MariaDB connection end.
+2021-04-22 10:51:44 [INFO] - MariaDB [ getReadPostExe ] executed.
+2021-04-22 10:51:44 [INFO] - MariaDB connection end.
+2021-04-22 10:51:44 [INFO] - getUserByIdExe executed.
+2021-04-22 10:51:45 [INFO] - MariaDB connection succeed.
+2021-04-22 10:51:45 [INFO] - MariaDB connection succeed.
+2021-04-22 10:51:45 [INFO] - MariaDB connection end.
+2021-04-22 10:51:45 [INFO] - getUserByIdExe executed.
+2021-04-22 10:51:45 [INFO] - MariaDB [ getPostsListExe ] executed.
+2021-04-22 10:51:52 [INFO] - MariaDB connection succeed.
+2021-04-22 10:51:52 [INFO] - MariaDB connection end.
+2021-04-22 10:51:52 [INFO] - MariaDB [ getReadPostExe ] executed.
+2021-04-22 10:51:52 [INFO] - MariaDB connection succeed.
+2021-04-22 10:51:52 [INFO] - MariaDB connection end.
+2021-04-22 10:51:52 [INFO] - getUserByIdExe executed.
+2021-04-22 10:51:55 [INFO] - MariaDB connection succeed.
+2021-04-22 10:51:55 [INFO] - MariaDB connection succeed.
+2021-04-22 10:51:55 [INFO] - MariaDB connection end.
+2021-04-22 10:51:55 [INFO] - getUserByIdExe executed.
+2021-04-22 10:51:55 [INFO] - MariaDB [ getPostsListExe ] executed.
+2021-04-22 10:51:59 [INFO] - MariaDB connection succeed.
+2021-04-22 10:51:59 [INFO] - MariaDB connection succeed.
+2021-04-22 10:51:59 [INFO] - MariaDB connection end.
+2021-04-22 10:51:59 [INFO] - MariaDB [ getReadPostExe ] executed.
+2021-04-22 10:51:59 [INFO] - MariaDB connection end.
+2021-04-22 10:51:59 [INFO] - getUserByIdExe executed.
+2021-04-22 10:52:00 [INFO] - MariaDB connection succeed.
+2021-04-22 10:52:00 [INFO] - MariaDB connection succeed.
+2021-04-22 10:52:00 [INFO] - MariaDB connection end.
+2021-04-22 10:52:00 [INFO] - getUserByIdExe executed.
+2021-04-22 10:52:00 [INFO] - MariaDB [ getPostsListExe ] executed.
+2021-04-22 11:01:16 [INFO] - MariaDB connection succeed.
+2021-04-22 11:01:16 [INFO] - MariaDB connection succeed.
+2021-04-22 11:01:16 [INFO] - MariaDB connection end.
+2021-04-22 11:01:16 [INFO] - getUserByIdExe executed.
+2021-04-22 11:01:16 [INFO] - MariaDB [ getPostsListExe ] executed.
+2021-04-22 11:01:29 [INFO] - Server listenling <dev> on port 8090
+2021-04-22 11:01:35 [INFO] - MariaDB connection succeed.
+2021-04-22 11:01:35 [INFO] - MariaDB connection succeed.
+2021-04-22 11:01:35 [INFO] - MariaDB connection end.
+2021-04-22 11:01:35 [INFO] - getUserByIdExe executed.
+2021-04-22 11:01:35 [INFO] - MariaDB [ getPostsListExe ] executed.
+2021-04-22 11:01:35 [INFO] - MariaDB connection succeed.
+2021-04-22 11:01:35 [INFO] - MariaDB connection succeed.
+2021-04-22 11:01:35 [INFO] - MariaDB connection end.
+2021-04-22 11:01:35 [INFO] - MariaDB [ getReadPostExe ] executed.
+2021-04-22 11:01:35 [INFO] - MariaDB connection end.
+2021-04-22 11:01:35 [INFO] - getUserByIdExe executed.
+2021-04-22 11:02:59 [INFO] - Server listenling <dev> on port 8090
+2021-04-22 11:03:02 [INFO] - MariaDB connection succeed.
+2021-04-22 11:03:02 [INFO] - MariaDB connection succeed.
+2021-04-22 11:03:02 [INFO] - MariaDB connection end.
+2021-04-22 11:03:02 [INFO] - MariaDB [ getReadPostExe ] executed.
+2021-04-22 11:03:02 [INFO] - MariaDB connection end.
+2021-04-22 11:03:02 [INFO] - getUserByIdExe executed.
+2021-04-22 11:04:09 [INFO] - Server listenling <dev> on port 8090
+2021-04-22 11:04:15 [INFO] - MariaDB connection succeed.
+2021-04-22 11:04:15 [INFO] - MariaDB connection succeed.
+2021-04-22 11:04:15 [INFO] - MariaDB connection end.
+2021-04-22 11:04:15 [INFO] - MariaDB [ getReadPostExe ] executed.
+2021-04-22 11:04:15 [INFO] - MariaDB connection end.
+2021-04-22 11:04:15 [INFO] - getUserByIdExe executed.
+2021-04-22 11:04:50 [INFO] - MariaDB connection succeed.
+2021-04-22 11:04:50 [INFO] - MariaDB connection end.
+2021-04-22 11:04:50 [INFO] - MariaDB [ getReadPostExe ] executed.
+2021-04-22 11:04:50 [INFO] - MariaDB connection succeed.
+2021-04-22 11:04:50 [INFO] - MariaDB connection end.
+2021-04-22 11:04:50 [INFO] - getUserByIdExe executed.
+2021-04-22 11:05:17 [INFO] - MariaDB connection succeed.
+2021-04-22 11:05:17 [INFO] - MariaDB connection succeed.
+2021-04-22 11:05:17 [INFO] - MariaDB connection end.
+2021-04-22 11:05:17 [INFO] - MariaDB [ getReadPostExe ] executed.
+2021-04-22 11:05:17 [INFO] - MariaDB connection end.
+2021-04-22 11:05:17 [INFO] - getUserByIdExe executed.
+2021-04-22 11:05:25 [INFO] - MariaDB connection succeed.
+2021-04-22 11:05:25 [INFO] - MariaDB connection end.
+2021-04-22 11:05:25 [INFO] - MariaDB [ getReadPostExe ] executed.
+2021-04-22 11:05:25 [INFO] - MariaDB connection succeed.
+2021-04-22 11:05:25 [INFO] - MariaDB connection end.
+2021-04-22 11:05:25 [INFO] - getUserByIdExe executed.
+2021-04-22 11:06:29 [INFO] - Server listenling <dev> on port 8090
+2021-04-22 11:06:43 [INFO] - MariaDB connection succeed.
+2021-04-22 11:06:43 [INFO] - MariaDB connection succeed.
+2021-04-22 11:06:43 [INFO] - MariaDB connection end.
+2021-04-22 11:06:43 [INFO] - MariaDB [ getReadPostExe ] executed.
+2021-04-22 11:06:43 [INFO] - MariaDB connection end.
+2021-04-22 11:06:43 [INFO] - getUserByIdExe executed.
+2021-04-22 11:06:58 [INFO] - MariaDB connection succeed.
+2021-04-22 11:06:58 [INFO] - MariaDB connection end.
+2021-04-22 11:06:58 [INFO] - MariaDB [ getReadPostExe ] executed.
+2021-04-22 11:06:58 [INFO] - MariaDB connection succeed.
+2021-04-22 11:06:58 [INFO] - MariaDB connection end.
+2021-04-22 11:06:58 [INFO] - getUserByIdExe executed.
+2021-04-22 11:07:35 [INFO] - Server listenling <dev> on port 8090
+2021-04-22 11:07:49 [INFO] - MariaDB connection succeed.
+2021-04-22 11:07:49 [INFO] - MariaDB connection succeed.
+2021-04-22 11:07:49 [INFO] - MariaDB connection end.
+2021-04-22 11:07:49 [INFO] - getUserByIdExe executed.
+2021-04-22 11:07:49 [INFO] - MariaDB [ getPostsListExe ] executed.
+2021-04-22 11:07:51 [INFO] - MariaDB connection succeed.
+2021-04-22 11:07:51 [INFO] - MariaDB connection succeed.
+2021-04-22 11:07:51 [INFO] - MariaDB connection end.
+2021-04-22 11:07:51 [INFO] - getUserByIdExe executed.
+2021-04-22 11:07:51 [INFO] - MariaDB [ getPostsListExe ] executed.
+2021-04-22 11:07:53 [INFO] - MariaDB connection succeed.
+2021-04-22 11:07:53 [INFO] - MariaDB connection succeed.
+2021-04-22 11:07:53 [INFO] - MariaDB connection end.
+2021-04-22 11:07:53 [INFO] - MariaDB [ getReadPostExe ] executed.
+2021-04-22 11:07:53 [INFO] - MariaDB connection end.
+2021-04-22 11:07:53 [INFO] - getUserByIdExe executed.
+2021-04-22 11:08:02 [INFO] - MariaDB connection succeed.
+2021-04-22 11:08:02 [INFO] - MariaDB connection end.
+2021-04-22 11:08:02 [INFO] - MariaDB [ getReadPostExe ] executed.
+2021-04-22 11:08:02 [INFO] - MariaDB connection succeed.
+2021-04-22 11:08:02 [INFO] - MariaDB connection end.
+2021-04-22 11:08:02 [INFO] - getUserByIdExe executed.
+2021-04-22 11:09:40 [INFO] - MariaDB connection succeed.
+2021-04-22 11:09:40 [INFO] - MariaDB connection end.
+2021-04-22 11:09:40 [INFO] - MariaDB [ getReadPostExe ] executed.
+2021-04-22 11:09:40 [INFO] - MariaDB connection succeed.
+2021-04-22 11:09:40 [INFO] - MariaDB connection end.
+2021-04-22 11:09:40 [INFO] - getUserByIdExe executed.
+2021-04-22 11:09:56 [INFO] - MariaDB connection succeed.
+2021-04-22 11:09:56 [INFO] - MariaDB connection succeed.
+2021-04-22 11:09:56 [INFO] - MariaDB connection end.
+2021-04-22 11:09:56 [INFO] - MariaDB [ getReadPostExe ] executed.
+2021-04-22 11:09:56 [INFO] - MariaDB connection end.
+2021-04-22 11:09:56 [INFO] - getUserByIdExe executed.
+2021-04-22 11:09:59 [INFO] - MariaDB connection succeed.
+2021-04-22 11:09:59 [INFO] - MariaDB connection end.
+2021-04-22 11:09:59 [INFO] - MariaDB [ getReadPostExe ] executed.
+2021-04-22 11:09:59 [INFO] - MariaDB connection succeed.
+2021-04-22 11:09:59 [INFO] - MariaDB connection end.
+2021-04-22 11:09:59 [INFO] - getUserByIdExe executed.
+2021-04-22 11:10:25 [INFO] - MariaDB connection succeed.
+2021-04-22 11:10:25 [INFO] - MariaDB [ findUserId ] executed.
+2021-04-22 11:11:02 [INFO] - Server listenling <dev> on port 8090
+2021-04-22 11:11:03 [INFO] - MariaDB connection succeed.
+2021-04-22 11:11:03 [INFO] - MariaDB [ findUserId ] executed.
+2021-04-22 11:11:09 [INFO] - UpdatePost error : ReferenceError: res is not defined
+2021-04-22 11:11:21 [INFO] - MariaDB connection succeed.
+2021-04-22 11:11:21 [INFO] - MariaDB connection end.
+2021-04-22 11:11:21 [INFO] - MariaDB [ getReadPostExe ] executed.
+2021-04-22 11:11:21 [INFO] - MariaDB connection succeed.
+2021-04-22 11:11:21 [INFO] - MariaDB connection end.
+2021-04-22 11:11:21 [INFO] - getUserByIdExe executed.
+2021-04-22 11:11:23 [INFO] - MariaDB connection succeed.
+2021-04-22 11:11:23 [INFO] - MariaDB [ findUserId ] executed.
+2021-04-22 11:11:23 [INFO] - UpdatePost error : ReferenceError: res is not defined
+2021-04-22 11:11:52 [INFO] - MariaDB connection succeed.
+2021-04-22 11:11:52 [INFO] - MariaDB [ findUserId ] executed.
+2021-04-22 11:12:45 [INFO] - UpdatePost error : ReferenceError: res is not defined
+2021-04-22 11:13:11 [INFO] - MariaDB connection succeed.
+2021-04-22 11:14:37 [INFO] - MariaDB [ findUserId ] executed.
+2021-04-22 11:14:37 [INFO] - UpdatePost error : ReferenceError: res is not defined
+2021-04-22 11:16:13 [INFO] - MariaDB connection succeed.
+2021-04-22 11:16:13 [INFO] - MariaDB connection succeed.
+2021-04-22 11:16:13 [INFO] - MariaDB connection end.
+2021-04-22 11:16:13 [INFO] - getUserByIdExe executed.
+2021-04-22 11:16:13 [INFO] - MariaDB connection end.
+2021-04-22 11:16:13 [INFO] - MariaDB [ getReadPostExe ] executed.
+2021-04-22 11:16:16 [INFO] - MariaDB connection succeed.
+2021-04-22 11:16:16 [INFO] - MariaDB [ findUserId ] executed.
+2021-04-22 11:18:42 [INFO] - UpdatePost error : ReferenceError: res is not defined
+2021-04-22 11:19:35 [INFO] - MariaDB connection succeed.
+2021-04-22 11:19:35 [INFO] - MariaDB connection end.
+2021-04-22 11:19:43 [INFO] - MariaDB connection succeed.
+2021-04-22 11:19:43 [INFO] - MariaDB connection end.
+2021-04-22 11:27:20 [INFO] - Server listenling <dev> on port 8090
+2021-04-22 11:27:23 [INFO] - MariaDB connection succeed.
+2021-04-22 11:27:23 [INFO] - MariaDB connection succeed.
+2021-04-22 11:27:23 [INFO] - MariaDB connection end.
+2021-04-22 11:27:23 [INFO] - MariaDB [ getReadPostExe ] executed.
+2021-04-22 11:27:23 [INFO] - MariaDB connection end.
+2021-04-22 11:27:23 [INFO] - getUserByIdExe executed.
+2021-04-22 11:27:24 [INFO] - MariaDB connection succeed.
+2021-04-22 11:27:24 [INFO] - MariaDB [ findUserId ] executed.
+2021-04-22 11:27:32 [INFO] - UpdatePost error : ReferenceError: res is not defined
+2021-04-22 11:28:30 [INFO] - MariaDB connection succeed.
+2021-04-22 11:28:30 [INFO] - MariaDB [ findUserId ] executed.
+2021-04-22 11:33:05 [INFO] - UpdatePost error : ReferenceError: res is not defined
+2021-04-22 11:33:05 [INFO] - MariaDB connection succeed.
+2021-04-22 11:33:05 [INFO] - MariaDB connection succeed.
+2021-04-22 11:33:05 [INFO] - MariaDB connection end.
+2021-04-22 11:33:05 [INFO] - MariaDB [ getReadPostExe ] executed.
+2021-04-22 11:33:05 [INFO] - MariaDB connection end.
+2021-04-22 11:33:05 [INFO] - getUserByIdExe executed.
+2021-04-22 11:33:11 [INFO] - MariaDB connection succeed.
+2021-04-22 11:33:11 [INFO] - MariaDB connection succeed.
+2021-04-22 11:33:11 [INFO] - MariaDB connection end.
+2021-04-22 11:33:11 [INFO] - MariaDB [ getReadPostExe ] executed.
+2021-04-22 11:33:11 [INFO] - MariaDB connection end.
+2021-04-22 11:33:11 [INFO] - getUserByIdExe executed.
+2021-04-22 11:33:19 [INFO] - MariaDB connection succeed.
+2021-04-22 11:33:19 [INFO] - MariaDB [ findUserId ] executed.
+2021-04-22 11:33:31 [INFO] - UpdatePost error : ReferenceError: res is not defined
+2021-04-22 11:35:29 [INFO] - Server listenling <dev> on port 8090
+2021-04-22 11:35:35 [INFO] - MariaDB connection succeed.
+2021-04-22 11:35:35 [INFO] - MariaDB connection succeed.
+2021-04-22 11:35:35 [INFO] - MariaDB connection end.
+2021-04-22 11:35:35 [INFO] - MariaDB [ getReadPostExe ] executed.
+2021-04-22 11:35:35 [INFO] - MariaDB connection end.
+2021-04-22 11:35:35 [INFO] - getUserByIdExe executed.
+2021-04-22 11:35:47 [INFO] - MariaDB connection succeed.
+2021-04-22 11:35:47 [INFO] - MariaDB [ findUserId ] executed.
+2021-04-22 11:35:52 [INFO] - UpdatePost error : ReferenceError: res is not defined
+2021-04-22 11:35:52 [INFO] - MariaDB connection succeed.
+2021-04-22 11:35:52 [INFO] - MariaDB connection succeed.
+2021-04-22 11:35:52 [INFO] - MariaDB connection end.
+2021-04-22 11:35:52 [INFO] - MariaDB [ getReadPostExe ] executed.
+2021-04-22 11:35:52 [INFO] - MariaDB connection end.
+2021-04-22 11:35:52 [INFO] - getUserByIdExe executed.
+2021-04-22 11:36:05 [INFO] - MariaDB connection succeed.
+2021-04-22 11:36:05 [INFO] - MariaDB [ findUserId ] executed.
+2021-04-22 11:36:07 [INFO] - UpdatePost error : ReferenceError: res is not defined
+2021-04-22 11:37:32 [INFO] - MariaDB connection succeed.
+2021-04-22 11:37:32 [INFO] - MariaDB connection succeed.
+2021-04-22 11:37:32 [INFO] - MariaDB connection end.
+2021-04-22 11:37:32 [INFO] - MariaDB [ getReadPostExe ] executed.
+2021-04-22 11:37:32 [INFO] - MariaDB connection end.
+2021-04-22 11:37:32 [INFO] - getUserByIdExe executed.
+2021-04-22 11:37:47 [INFO] - MariaDB connection succeed.
+2021-04-22 11:37:47 [INFO] - MariaDB connection end.
+2021-04-22 11:37:47 [INFO] - MariaDB [ getReadPostExe ] executed.
+2021-04-22 11:37:47 [INFO] - MariaDB connection succeed.
+2021-04-22 11:37:47 [INFO] - MariaDB connection end.
+2021-04-22 11:37:47 [INFO] - getUserByIdExe executed.
+2021-04-22 11:38:34 [INFO] - MariaDB connection succeed.
+2021-04-22 11:38:34 [INFO] - MariaDB connection succeed.
+2021-04-22 11:38:34 [INFO] - MariaDB connection end.
+2021-04-22 11:38:34 [INFO] - MariaDB [ getReadPostExe ] executed.
+2021-04-22 11:38:34 [INFO] - MariaDB connection end.
+2021-04-22 11:38:34 [INFO] - getUserByIdExe executed.
+2021-04-22 11:43:59 [INFO] - Server listenling <dev> on port 8090
+2021-04-22 11:44:02 [INFO] - MariaDB connection succeed.
+2021-04-22 11:44:02 [INFO] - MariaDB connection succeed.
+2021-04-22 11:44:02 [INFO] - MariaDB connection end.
+2021-04-22 11:44:02 [INFO] - MariaDB [ getReadPostExe ] executed.
+2021-04-22 11:44:02 [INFO] - MariaDB connection end.
+2021-04-22 11:44:02 [INFO] - getUserByIdExe executed.
+2021-04-22 11:44:06 [INFO] - MariaDB connection succeed.
+2021-04-22 11:44:06 [INFO] - MariaDB [ findUserId ] executed.
+2021-04-22 11:45:08 [INFO] - Server listenling <dev> on port 8090
+2021-04-22 11:45:18 [INFO] - MariaDB connection succeed.
+2021-04-22 11:45:18 [INFO] - MariaDB [ findUserId ] executed.
+2021-04-22 11:45:24 [INFO] - UpdatePost error : ReferenceError: res is not defined
+2021-04-22 11:45:38 [INFO] - Server listenling <dev> on port 8090
+2021-04-22 11:45:46 [INFO] - MariaDB connection succeed.
+2021-04-22 11:45:46 [INFO] - MariaDB connection succeed.
+2021-04-22 11:45:46 [INFO] - MariaDB connection end.
+2021-04-22 11:45:46 [INFO] - MariaDB [ getReadPostExe ] executed.
+2021-04-22 11:45:46 [INFO] - MariaDB connection end.
+2021-04-22 11:45:46 [INFO] - getUserByIdExe executed.
+2021-04-22 11:45:51 [INFO] - MariaDB connection succeed.
+2021-04-22 11:45:51 [INFO] - MariaDB [ findUserId ] executed.
+2021-04-22 11:45:53 [INFO] - UpdatePost error : ReferenceError: res is not defined
+2021-04-22 11:46:53 [INFO] - Server listenling <dev> on port 8090
+2021-04-22 11:47:42 [INFO] - MariaDB connection succeed.
+2021-04-22 11:47:42 [INFO] - MariaDB connection succeed.
+2021-04-22 11:47:43 [INFO] - MariaDB connection end.
+2021-04-22 11:47:43 [INFO] - MariaDB [ getReadPostExe ] executed.
+2021-04-22 11:47:43 [INFO] - MariaDB connection end.
+2021-04-22 11:47:43 [INFO] - getUserByIdExe executed.
+2021-04-22 11:47:48 [INFO] - MariaDB connection succeed.
+2021-04-22 11:47:48 [INFO] - MariaDB [ findUserId ] executed.
+2021-04-22 11:47:51 [INFO] - UpdatePost error : ReferenceError: res is not defined
+2021-04-22 11:51:20 [INFO] - Server listenling <dev> on port 8090
+2021-04-22 11:51:26 [INFO] - MariaDB connection succeed.
+2021-04-22 11:51:26 [INFO] - MariaDB connection succeed.
+2021-04-22 11:51:26 [INFO] - MariaDB connection end.
+2021-04-22 11:51:26 [INFO] - MariaDB [ getReadPostExe ] executed.
+2021-04-22 11:51:26 [INFO] - MariaDB connection end.
+2021-04-22 11:51:26 [INFO] - getUserByIdExe executed.
+2021-04-22 11:51:33 [INFO] - MariaDB connection succeed.
+2021-04-22 11:51:33 [INFO] - UpdatePost error : TypeError: Cannot read property 'affectedRows' of undefined
+2021-04-22 11:51:52 [INFO] - Server listenling <dev> on port 8090
+2021-04-22 11:51:54 [INFO] - MariaDB connection succeed.
+2021-04-22 11:51:54 [INFO] - UpdatePost error : TypeError: Cannot read property 'affectedRows' of undefined
+2021-04-22 11:52:49 [INFO] - Server listenling <dev> on port 8090
+2021-04-22 11:52:51 [INFO] - MariaDB connection succeed.
+2021-04-22 11:54:18 [INFO] - Server listenling <dev> on port 8090
+2021-04-22 11:54:18 [INFO] - MariaDB connection succeed.
+2021-04-22 11:54:18 [INFO] - UpdatePost error : TypeError: Cannot read property 'affectedRows' of undefined
+2021-04-22 11:54:32 [INFO] - Server listenling <dev> on port 8090
+2021-04-22 11:54:36 [INFO] - MariaDB connection succeed.
+2021-04-22 11:55:19 [INFO] - Server listenling <dev> on port 8090
+2021-04-22 11:55:20 [INFO] - MariaDB connection succeed.
+2021-04-22 11:55:30 [INFO] - UpdatePost error : TypeError: Cannot read property 'affectedRows' of undefined
+2021-04-22 11:56:01 [INFO] - MariaDB connection succeed.
+2021-04-22 11:56:01 [INFO] - MariaDB connection end.
+2021-04-22 11:56:01 [INFO] - getUserByIdExe executed.
+2021-04-22 11:56:01 [INFO] - MariaDB connection succeed.
+2021-04-22 11:56:01 [INFO] - MariaDB [ getPostsListExe ] executed.
+2021-04-22 11:56:06 [INFO] - MariaDB connection succeed.
+2021-04-22 11:56:06 [INFO] - MariaDB connection end.
+2021-04-22 11:56:07 [INFO] - MariaDB connection succeed.
+2021-04-22 11:56:07 [INFO] - MariaDB connection succeed.
+2021-04-22 11:56:07 [INFO] - MariaDB connection end.
+2021-04-22 11:56:07 [INFO] - getUserByIdExe executed.
+2021-04-22 11:56:07 [INFO] - MariaDB [ getPostsListExe ] executed.
+2021-04-22 11:56:09 [INFO] - MariaDB connection succeed.
+2021-04-22 11:56:09 [INFO] - MariaDB connection succeed.
+2021-04-22 11:56:09 [INFO] - MariaDB connection end.
+2021-04-22 11:56:09 [INFO] - MariaDB [ getReadPostExe ] executed.
+2021-04-22 11:56:09 [INFO] - MariaDB connection end.
+2021-04-22 11:56:09 [INFO] - getUserByIdExe executed.
+2021-04-22 11:56:10 [INFO] - MariaDB connection succeed.
+2021-04-22 11:56:10 [INFO] - MariaDB [ UpdatePostExe ] executed.
+2021-04-22 11:56:10 [INFO] - UpdatePost success : affectedRows = 1
+2021-04-22 11:56:10 [INFO] - MariaDB connection end.
+2021-04-22 11:56:19 [INFO] - MariaDB connection succeed.
+2021-04-22 11:57:43 [INFO] - MariaDB [ UpdatePostExe ] executed.
+2021-04-22 11:57:45 [INFO] - UpdatePost success : affectedRows = 1
+2021-04-22 11:57:45 [INFO] - MariaDB connection end.
+2021-04-22 11:58:09 [INFO] - Server listenling <dev> on port 8090
+2021-04-22 11:58:15 [INFO] - MariaDB connection succeed.
+2021-04-22 11:58:15 [INFO] - MariaDB connection succeed.
+2021-04-22 11:58:15 [INFO] - MariaDB connection end.
+2021-04-22 11:58:15 [INFO] - MariaDB [ getReadPostExe ] executed.
+2021-04-22 11:58:15 [INFO] - MariaDB connection end.
+2021-04-22 11:58:15 [INFO] - getUserByIdExe executed.
+2021-04-22 11:58:16 [INFO] - MariaDB connection succeed.
+2021-04-22 11:58:16 [INFO] - MariaDB connection succeed.
+2021-04-22 11:58:16 [INFO] - MariaDB connection end.
+2021-04-22 11:58:16 [INFO] - getUserByIdExe executed.
+2021-04-22 11:58:16 [INFO] - MariaDB [ getPostsListExe ] executed.
+2021-04-22 11:58:17 [INFO] - MariaDB connection succeed.
+2021-04-22 11:58:17 [INFO] - MariaDB connection succeed.
+2021-04-22 11:58:17 [INFO] - MariaDB connection end.
+2021-04-22 11:58:17 [INFO] - MariaDB [ getReadPostExe ] executed.
+2021-04-22 11:58:17 [INFO] - MariaDB connection end.
+2021-04-22 11:58:17 [INFO] - getUserByIdExe executed.
+2021-04-22 11:58:18 [INFO] - MariaDB connection succeed.
+2021-04-22 11:58:18 [INFO] - MariaDB [ UpdatePostExe ] executed.
+2021-04-22 11:58:18 [INFO] - UpdatePost success : affectedRows = 1
+2021-04-22 11:58:18 [INFO] - MariaDB connection end.
+2021-04-22 11:58:21 [INFO] - MariaDB connection succeed.
+2021-04-22 11:58:21 [INFO] - MariaDB connection succeed.
+2021-04-22 11:58:21 [INFO] - MariaDB connection end.
+2021-04-22 11:58:21 [INFO] - getUserByIdExe executed.
+2021-04-22 11:58:21 [INFO] - MariaDB [ getPostsListExe ] executed.
+2021-04-22 11:58:22 [INFO] - MariaDB connection succeed.
+2021-04-22 11:58:22 [INFO] - MariaDB connection succeed.
+2021-04-22 11:58:22 [INFO] - MariaDB connection end.
+2021-04-22 11:58:22 [INFO] - MariaDB [ getReadPostExe ] executed.
+2021-04-22 11:58:22 [INFO] - MariaDB connection end.
+2021-04-22 11:58:22 [INFO] - getUserByIdExe executed.
+2021-04-22 11:58:32 [INFO] - MariaDB connection succeed.
+2021-04-22 11:58:32 [INFO] - MariaDB connection end.
+2021-04-22 11:58:32 [INFO] - getUserByIdExe executed.
+2021-04-22 11:58:32 [INFO] - MariaDB connection succeed.
+2021-04-22 11:58:32 [INFO] - MariaDB [ getPostsListExe ] executed.
+2021-04-22 11:58:33 [INFO] - MariaDB connection succeed.
+2021-04-22 11:58:33 [INFO] - MariaDB connection succeed.
+2021-04-22 11:58:33 [INFO] - MariaDB connection end.
+2021-04-22 11:58:33 [INFO] - MariaDB [ getReadPostExe ] executed.
+2021-04-22 11:58:33 [INFO] - MariaDB connection end.
+2021-04-22 11:58:33 [INFO] - getUserByIdExe executed.
+2021-04-22 11:58:34 [INFO] - MariaDB connection succeed.
+2021-04-22 11:58:34 [INFO] - MariaDB [ UpdatePostExe ] executed.
+2021-04-22 11:58:34 [INFO] - UpdatePost success : affectedRows = 1
+2021-04-22 11:58:34 [INFO] - MariaDB connection end.
+2021-04-22 11:59:12 [INFO] - MariaDB connection succeed.
+2021-04-22 11:59:12 [INFO] - MariaDB connection succeed.
+2021-04-22 11:59:12 [INFO] - MariaDB connection end.
+2021-04-22 11:59:12 [INFO] - MariaDB [ getReadPostExe ] executed.
+2021-04-22 11:59:12 [INFO] - MariaDB connection end.
+2021-04-22 11:59:12 [INFO] - getUserByIdExe executed.
+2021-04-22 13:05:08 [INFO] - MariaDB connection succeed.
+2021-04-22 13:05:08 [INFO] - MariaDB connection succeed.
+2021-04-22 13:05:08 [INFO] - MariaDB connection end.
+2021-04-22 13:05:08 [INFO] - MariaDB [ getReadPostExe ] executed.
+2021-04-22 13:05:08 [INFO] - MariaDB connection end.
+2021-04-22 13:05:08 [INFO] - getUserByIdExe executed.
+2021-04-22 14:16:07 [INFO] - MariaDB connection succeed.
+2021-04-22 14:16:07 [INFO] - MariaDB connection succeed.
+2021-04-22 14:16:07 [INFO] - MariaDB connection end.
+2021-04-22 14:16:07 [INFO] - MariaDB [ getReadPostExe ] executed.
+2021-04-22 14:16:07 [INFO] - MariaDB connection end.
+2021-04-22 14:16:07 [INFO] - getUserByIdExe executed.

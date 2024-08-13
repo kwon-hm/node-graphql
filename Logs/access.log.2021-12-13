@@ -1,0 +1,70 @@
+2021-12-13 22:18:44 [INFO] - Server listenling <dev> on port 8090
+2021-12-13 22:18:59 [INFO] - MariaDB connection succeed.
+2021-12-13 22:18:59 [INFO] - MariaDB connection end.
+2021-12-13 22:18:59 [INFO] - MariaDB connection succeed.
+2021-12-13 22:18:59 [INFO] - MariaDB connection end.
+2021-12-13 22:18:59 [INFO] - getUserByIdExe executed.
+2021-12-13 22:18:59 [INFO] - MariaDB connection succeed.
+2021-12-13 22:18:59 [INFO] - MariaDB [ getPostsListExe ] executed.
+2021-12-13 22:19:04 [INFO] - MariaDB connection succeed.
+2021-12-13 22:19:04 [INFO] - MariaDB connection succeed.
+2021-12-13 22:19:04 [INFO] - MariaDB connection end.
+2021-12-13 22:19:04 [INFO] - MariaDB connection end.
+2021-12-13 22:19:04 [INFO] - getUserByIdExe executed.
+2021-12-13 22:19:04 [INFO] - MariaDB connection succeed.
+2021-12-13 22:19:04 [INFO] - MariaDB connection end.
+2021-12-13 22:19:04 [INFO] - MariaDB [ getReadPostExe ] executed.
+2021-12-13 22:19:47 [INFO] - MariaDB connection succeed.
+2021-12-13 22:19:47 [INFO] - MariaDB connection end.
+2021-12-13 22:19:47 [INFO] - MariaDB connection succeed.
+2021-12-13 22:19:47 [INFO] - MariaDB connection end.
+2021-12-13 22:19:47 [INFO] - getUserByIdExe executed.
+2021-12-13 22:19:47 [INFO] - MariaDB connection succeed.
+2021-12-13 22:19:47 [INFO] - MariaDB [ getPostsListExe ] executed.
+2021-12-13 22:19:50 [INFO] - MariaDB connection succeed.
+2021-12-13 22:19:50 [INFO] - MariaDB connection succeed.
+2021-12-13 22:19:50 [INFO] - MariaDB connection end.
+2021-12-13 22:19:50 [INFO] - MariaDB connection end.
+2021-12-13 22:19:50 [INFO] - getUserByIdExe executed.
+2021-12-13 22:19:50 [INFO] - MariaDB connection succeed.
+2021-12-13 22:19:50 [INFO] - MariaDB connection end.
+2021-12-13 22:19:50 [INFO] - MariaDB [ getReadPostExe ] executed.
+2021-12-13 22:19:52 [INFO] - MariaDB connection succeed.
+2021-12-13 22:19:52 [INFO] - MariaDB connection succeed.
+2021-12-13 22:19:52 [INFO] - MariaDB connection end.
+2021-12-13 22:19:52 [INFO] - getUserByIdExe executed.
+2021-12-13 22:19:52 [INFO] - MariaDB [ getPostsListExe ] executed.
+2021-12-13 22:19:53 [INFO] - MariaDB connection succeed.
+2021-12-13 22:19:53 [INFO] - MariaDB connection succeed.
+2021-12-13 22:19:53 [INFO] - MariaDB connection end.
+2021-12-13 22:19:53 [INFO] - MariaDB connection end.
+2021-12-13 22:19:53 [INFO] - getUserByIdExe executed.
+2021-12-13 22:19:53 [INFO] - MariaDB connection succeed.
+2021-12-13 22:19:53 [INFO] - MariaDB connection end.
+2021-12-13 22:19:53 [INFO] - MariaDB [ getReadPostExe ] executed.
+2021-12-13 22:19:55 [INFO] - MariaDB connection succeed.
+2021-12-13 22:19:55 [INFO] - MariaDB connection succeed.
+2021-12-13 22:19:55 [INFO] - MariaDB connection end.
+2021-12-13 22:19:55 [INFO] - getUserByIdExe executed.
+2021-12-13 22:19:55 [INFO] - MariaDB [ getPostsListExe ] executed.
+2021-12-13 22:19:57 [INFO] - MariaDB connection succeed.
+2021-12-13 22:19:57 [INFO] - MariaDB [ getPostsListExe ] executed.
+2021-12-13 22:19:58 [INFO] - MariaDB connection succeed.
+2021-12-13 22:19:58 [INFO] - MariaDB [ getPostsListExe ] executed.
+2021-12-13 22:19:58 [INFO] - MariaDB connection succeed.
+2021-12-13 22:19:58 [INFO] - MariaDB [ getPostsListExe ] executed.
+2021-12-13 22:20:00 [INFO] - MariaDB connection succeed.
+2021-12-13 22:20:00 [INFO] - MariaDB connection end.
+2021-12-13 22:20:00 [INFO] - MariaDB connection succeed.
+2021-12-13 22:20:00 [INFO] - MariaDB connection end.
+2021-12-13 22:20:00 [INFO] - MariaDB [ getReadPostExe ] executed.
+2021-12-13 22:20:00 [INFO] - MariaDB connection succeed.
+2021-12-13 22:20:00 [INFO] - MariaDB connection end.
+2021-12-13 22:20:00 [INFO] - getUserByIdExe executed.
+2021-12-13 22:20:03 [INFO] - MariaDB connection succeed.
+2021-12-13 22:20:03 [INFO] - MariaDB connection succeed.
+2021-12-13 22:20:03 [INFO] - MariaDB connection end.
+2021-12-13 22:20:03 [INFO] - getUserByIdExe executed.
+2021-12-13 22:20:03 [INFO] - MariaDB [ getPostsListExe ] executed.
+2021-12-13 22:20:05 [INFO] - MariaDB connection succeed.
+2021-12-13 22:20:05 [INFO] - MariaDB [ getPostsListExe ] executed.

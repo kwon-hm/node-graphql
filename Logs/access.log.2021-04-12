@@ -1,0 +1,48 @@
+2021-04-12 16:37:43 [INFO] - Server listenling <dev> on port 8090
+2021-04-12 16:37:48 [INFO] - MariaDB connection succeed.
+2021-04-12 16:37:48 [INFO] - MariaDB connection end.
+2021-04-12 16:39:30 [INFO] - MariaDB connection succeed.
+2021-04-12 16:39:30 [INFO] - MariaDB connection end.
+2021-04-12 16:39:30 [INFO] - MariaDB connection succeed.
+2021-04-12 16:39:30 [INFO] - MariaDB connection end.
+2021-04-12 16:39:30 [INFO] - getUserByIdExe executed.
+2021-04-12 16:39:30 [INFO] - MariaDB connection succeed.
+2021-04-12 16:39:30 [INFO] - MariaDB [ getPostsListExe ] executed.
+2021-04-12 16:39:40 [INFO] - MariaDB connection succeed.
+2021-04-12 16:39:40 [INFO] - MariaDB connection succeed.
+2021-04-12 16:39:40 [INFO] - MariaDB connection end.
+2021-04-12 16:39:40 [INFO] - MariaDB [ getReadPostExe ] executed.
+2021-04-12 16:39:40 [INFO] - MariaDB connection end.
+2021-04-12 16:39:40 [INFO] - getUserByIdExe executed.
+2021-04-12 16:41:31 [INFO] - MariaDB connection succeed.
+2021-04-12 16:41:31 [INFO] - MariaDB connection succeed.
+2021-04-12 16:41:31 [INFO] - MariaDB connection end.
+2021-04-12 16:41:31 [INFO] - MariaDB [ getReadPostExe ] executed.
+2021-04-12 16:41:31 [INFO] - MariaDB connection end.
+2021-04-12 16:41:31 [INFO] - getUserByIdExe executed.
+2021-04-12 17:04:14 [INFO] - MariaDB connection succeed.
+2021-04-12 17:04:14 [INFO] - MariaDB [ InsertUserExe ] executed.
+2021-04-12 17:04:14 [INFO] - InsertUser success : affectedRows = 1, insertId = 3, warningStatus = 0
+2021-04-12 17:04:14 [INFO] - MariaDB connection end.
+2021-04-12 17:38:19 [INFO] - Server listenling <dev> on port 8090
+2021-04-12 17:39:29 [INFO] - Server listenling <dev> on port 8090
+2021-04-12 17:41:14 [INFO] - MariaDB connection succeed.
+2021-04-12 17:41:14 [INFO] - MariaDB [ insertComentExe ] executed.
+2021-04-12 17:41:14 [INFO] - insertComentExe success : affectedRows = 1
+2021-04-12 17:41:14 [INFO] - MariaDB connection end.
+2021-04-12 17:42:12 [INFO] - MariaDB connection succeed.
+2021-04-12 17:42:12 [INFO] - MariaDB [ selectComentExe ] executed.
+2021-04-12 17:42:12 [INFO] - selectComentExe success.
+2021-04-12 17:42:12 [INFO] - MariaDB connection end.
+2021-04-12 17:42:21 [INFO] - MariaDB connection succeed.
+2021-04-12 17:42:21 [INFO] - MariaDB [ insertComentExe ] executed.
+2021-04-12 17:42:21 [INFO] - insertComentExe success : affectedRows = 1
+2021-04-12 17:42:21 [INFO] - MariaDB connection end.
+2021-04-12 17:42:22 [INFO] - MariaDB connection succeed.
+2021-04-12 17:42:22 [INFO] - MariaDB [ selectComentExe ] executed.
+2021-04-12 17:42:22 [INFO] - selectComentExe success.
+2021-04-12 17:42:22 [INFO] - MariaDB connection end.
+2021-04-12 17:49:12 [INFO] - MariaDB connection succeed.
+2021-04-12 17:49:12 [INFO] - getPostsByCorpPaging error : Error
+2021-04-12 17:51:34 [INFO] - MariaDB connection succeed.
+2021-04-12 17:51:35 [INFO] - MariaDB [ getPostsListExe ] executed.

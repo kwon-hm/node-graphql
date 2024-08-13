@@ -1,0 +1,413 @@
+2021-05-10 15:46:31 [INFO] - Server listenling <dev> on port 8090
+2021-05-10 15:47:13 [INFO] - MariaDB connection succeed.
+2021-05-10 15:47:13 [INFO] - MariaDB connection end.
+2021-05-10 15:47:14 [INFO] - MariaDB connection succeed.
+2021-05-10 15:47:14 [INFO] - MariaDB connection end.
+2021-05-10 15:47:14 [INFO] - getUserByIdExe executed.
+2021-05-10 15:47:14 [INFO] - MariaDB connection succeed.
+2021-05-10 15:47:14 [INFO] - MariaDB [ getPostsListExe ] executed.
+2021-05-10 15:47:16 [INFO] - MariaDB connection succeed.
+2021-05-10 15:47:16 [INFO] - MariaDB connection succeed.
+2021-05-10 15:47:16 [INFO] - MariaDB connection end.
+2021-05-10 15:47:16 [INFO] - MariaDB connection end.
+2021-05-10 15:47:16 [INFO] - getUserByIdExe executed.
+2021-05-10 15:47:16 [INFO] - MariaDB connection succeed.
+2021-05-10 15:47:16 [INFO] - MariaDB connection end.
+2021-05-10 15:47:16 [INFO] - MariaDB [ getReadPostExe ] executed.
+2021-05-10 15:47:21 [INFO] - MariaDB connection succeed.
+2021-05-10 15:47:21 [INFO] - MariaDB [ insertComentExe ] executed.
+2021-05-10 15:47:21 [INFO] - insertComentExe success : affectedRows = 1
+2021-05-10 15:47:21 [INFO] - MariaDB connection end.
+2021-05-10 15:47:22 [INFO] - MariaDB connection succeed.
+2021-05-10 15:47:22 [INFO] - MariaDB connection end.
+2021-05-10 15:47:22 [INFO] - MariaDB connection succeed.
+2021-05-10 15:47:22 [INFO] - MariaDB connection end.
+2021-05-10 15:47:22 [INFO] - MariaDB [ getReadPostExe ] executed.
+2021-05-10 15:47:28 [INFO] - MariaDB connection succeed.
+2021-05-10 15:47:28 [INFO] - MariaDB [ deleteComentExe ] executed.
+2021-05-10 15:47:29 [INFO] - MariaDB connection succeed.
+2021-05-10 15:47:29 [INFO] - MariaDB connection end.
+2021-05-10 15:47:29 [INFO] - MariaDB connection succeed.
+2021-05-10 15:47:29 [INFO] - MariaDB connection end.
+2021-05-10 15:47:29 [INFO] - MariaDB [ getReadPostExe ] executed.
+2021-05-10 15:47:35 [INFO] - MariaDB connection succeed.
+2021-05-10 15:47:35 [INFO] - MariaDB [ insertComentExe ] executed.
+2021-05-10 15:47:35 [INFO] - insertComentExe success : affectedRows = 1
+2021-05-10 15:47:35 [INFO] - MariaDB connection end.
+2021-05-10 15:47:36 [INFO] - MariaDB connection succeed.
+2021-05-10 15:47:36 [INFO] - MariaDB connection end.
+2021-05-10 15:47:36 [INFO] - MariaDB connection succeed.
+2021-05-10 15:47:36 [INFO] - MariaDB connection end.
+2021-05-10 15:47:36 [INFO] - MariaDB [ getReadPostExe ] executed.
+2021-05-10 15:48:16 [INFO] - MariaDB connection succeed.
+2021-05-10 15:48:16 [INFO] - MariaDB connection end.
+2021-05-10 15:48:16 [INFO] - getUserByIdExe executed.
+2021-05-10 15:48:16 [INFO] - MariaDB connection succeed.
+2021-05-10 15:48:16 [INFO] - MariaDB [ getPostsListExe ] executed.
+2021-05-10 15:48:21 [INFO] - MariaDB connection succeed.
+2021-05-10 15:48:21 [INFO] - MariaDB connection succeed.
+2021-05-10 15:48:21 [INFO] - MariaDB connection end.
+2021-05-10 15:48:21 [INFO] - getUserByIdExe executed.
+2021-05-10 15:48:21 [INFO] - MariaDB connection end.
+2021-05-10 15:48:21 [INFO] - getUserByIdExe executed.
+2021-05-10 15:48:24 [INFO] - MariaDB connection succeed.
+2021-05-10 15:48:24 [INFO] - MariaDB connection succeed.
+2021-05-10 15:48:24 [INFO] - MariaDB connection end.
+2021-05-10 15:48:24 [INFO] - getUserByIdExe executed.
+2021-05-10 15:48:24 [INFO] - MariaDB [ getPostsListExe ] executed.
+2021-05-10 15:48:25 [INFO] - MariaDB connection succeed.
+2021-05-10 15:48:25 [INFO] - MariaDB connection succeed.
+2021-05-10 15:48:25 [INFO] - MariaDB connection end.
+2021-05-10 15:48:25 [INFO] - MariaDB connection end.
+2021-05-10 15:48:25 [INFO] - getUserByIdExe executed.
+2021-05-10 15:48:25 [INFO] - MariaDB connection succeed.
+2021-05-10 15:48:25 [INFO] - MariaDB connection end.
+2021-05-10 15:48:25 [INFO] - MariaDB [ getReadPostExe ] executed.
+2021-05-10 15:48:52 [INFO] - MariaDB connection succeed.
+2021-05-10 15:48:52 [INFO] - MariaDB connection end.
+2021-05-10 15:48:52 [INFO] - MariaDB connection succeed.
+2021-05-10 15:48:52 [INFO] - MariaDB connection end.
+2021-05-10 15:48:52 [INFO] - MariaDB [ getReadPostExe ] executed.
+2021-05-10 15:48:52 [INFO] - MariaDB connection succeed.
+2021-05-10 15:48:52 [INFO] - MariaDB connection end.
+2021-05-10 15:48:52 [INFO] - getUserByIdExe executed.
+2021-05-10 15:51:05 [INFO] - Server listenling <dev> on port 8090
+2021-05-10 15:51:06 [INFO] - MariaDB connection succeed.
+2021-05-10 15:51:06 [INFO] - MariaDB connection end.
+2021-05-10 15:51:06 [INFO] - MariaDB connection succeed.
+2021-05-10 15:51:06 [INFO] - MariaDB connection end.
+2021-05-10 15:51:06 [INFO] - getUserByIdExe executed.
+2021-05-10 15:51:06 [INFO] - MariaDB connection succeed.
+2021-05-10 15:51:06 [INFO] - MariaDB [ getPostsListExe ] executed.
+2021-05-10 15:51:08 [INFO] - MariaDB connection succeed.
+2021-05-10 15:51:08 [INFO] - MariaDB connection succeed.
+2021-05-10 15:51:08 [INFO] - MariaDB connection end.
+2021-05-10 15:51:08 [INFO] - MariaDB connection end.
+2021-05-10 15:51:08 [INFO] - getUserByIdExe executed.
+2021-05-10 15:51:08 [INFO] - MariaDB connection succeed.
+2021-05-10 15:51:08 [INFO] - MariaDB connection end.
+2021-05-10 15:51:08 [INFO] - MariaDB [ getReadPostExe ] executed.
+2021-05-10 15:51:09 [INFO] - MariaDB connection succeed.
+2021-05-10 15:51:09 [INFO] - MariaDB [ deleteComentExe ] executed.
+2021-05-10 15:51:10 [INFO] - MariaDB connection succeed.
+2021-05-10 15:51:10 [INFO] - MariaDB connection end.
+2021-05-10 15:51:10 [INFO] - MariaDB connection succeed.
+2021-05-10 15:51:10 [INFO] - MariaDB connection end.
+2021-05-10 15:51:10 [INFO] - MariaDB [ getReadPostExe ] executed.
+2021-05-10 15:51:13 [INFO] - MariaDB connection succeed.
+2021-05-10 15:51:13 [INFO] - MariaDB [ insertComentExe ] executed.
+2021-05-10 15:51:13 [INFO] - insertComentExe success : affectedRows = 1
+2021-05-10 15:51:13 [INFO] - MariaDB connection end.
+2021-05-10 15:51:14 [INFO] - MariaDB connection succeed.
+2021-05-10 15:51:14 [INFO] - MariaDB connection end.
+2021-05-10 15:51:14 [INFO] - MariaDB connection succeed.
+2021-05-10 15:51:14 [INFO] - MariaDB connection end.
+2021-05-10 15:51:14 [INFO] - MariaDB [ getReadPostExe ] executed.
+2021-05-10 15:57:44 [INFO] - MariaDB connection succeed.
+2021-05-10 15:57:44 [INFO] - MariaDB connection succeed.
+2021-05-10 15:57:44 [INFO] - MariaDB connection end.
+2021-05-10 15:57:44 [INFO] - MariaDB connection end.
+2021-05-10 15:57:44 [INFO] - getUserByIdExe executed.
+2021-05-10 15:57:44 [INFO] - MariaDB connection succeed.
+2021-05-10 15:57:44 [INFO] - MariaDB connection end.
+2021-05-10 15:57:44 [INFO] - MariaDB [ getReadPostExe ] executed.
+2021-05-10 15:57:48 [INFO] - MariaDB connection succeed.
+2021-05-10 15:57:48 [INFO] - MariaDB [ deleteComentExe ] executed.
+2021-05-10 15:57:49 [INFO] - MariaDB connection succeed.
+2021-05-10 15:57:49 [INFO] - MariaDB connection end.
+2021-05-10 15:57:49 [INFO] - MariaDB connection succeed.
+2021-05-10 15:57:49 [INFO] - MariaDB connection end.
+2021-05-10 15:57:49 [INFO] - MariaDB [ getReadPostExe ] executed.
+2021-05-10 15:57:51 [INFO] - MariaDB connection succeed.
+2021-05-10 15:57:51 [INFO] - MariaDB [ insertComentExe ] executed.
+2021-05-10 15:57:51 [INFO] - insertComentExe success : affectedRows = 1
+2021-05-10 15:57:51 [INFO] - MariaDB connection end.
+2021-05-10 15:57:52 [INFO] - MariaDB connection succeed.
+2021-05-10 15:57:52 [INFO] - MariaDB connection end.
+2021-05-10 15:57:52 [INFO] - MariaDB connection succeed.
+2021-05-10 15:57:52 [INFO] - MariaDB connection end.
+2021-05-10 15:57:52 [INFO] - MariaDB [ getReadPostExe ] executed.
+2021-05-10 16:01:41 [INFO] - MariaDB connection succeed.
+2021-05-10 16:01:41 [INFO] - MariaDB connection succeed.
+2021-05-10 16:01:41 [INFO] - MariaDB connection end.
+2021-05-10 16:01:41 [INFO] - MariaDB connection end.
+2021-05-10 16:01:41 [INFO] - getUserByIdExe executed.
+2021-05-10 16:01:41 [INFO] - MariaDB connection succeed.
+2021-05-10 16:01:41 [INFO] - MariaDB connection end.
+2021-05-10 16:01:41 [INFO] - MariaDB [ getReadPostExe ] executed.
+2021-05-10 16:02:14 [INFO] - MariaDB connection succeed.
+2021-05-10 16:02:14 [INFO] - MariaDB connection end.
+2021-05-10 16:02:14 [INFO] - MariaDB connection succeed.
+2021-05-10 16:02:14 [INFO] - MariaDB connection end.
+2021-05-10 16:02:14 [INFO] - MariaDB [ getReadPostExe ] executed.
+2021-05-10 16:02:14 [INFO] - MariaDB connection succeed.
+2021-05-10 16:02:14 [INFO] - MariaDB connection end.
+2021-05-10 16:02:14 [INFO] - getUserByIdExe executed.
+2021-05-10 16:02:15 [INFO] - MariaDB connection succeed.
+2021-05-10 16:02:15 [INFO] - MariaDB connection succeed.
+2021-05-10 16:02:15 [INFO] - MariaDB connection end.
+2021-05-10 16:02:15 [INFO] - MariaDB connection end.
+2021-05-10 16:02:15 [INFO] - getUserByIdExe executed.
+2021-05-10 16:02:15 [INFO] - MariaDB connection succeed.
+2021-05-10 16:02:15 [INFO] - MariaDB connection end.
+2021-05-10 16:02:15 [INFO] - MariaDB [ getReadPostExe ] executed.
+2021-05-10 16:07:50 [INFO] - MariaDB connection succeed.
+2021-05-10 16:07:50 [INFO] - MariaDB connection succeed.
+2021-05-10 16:07:50 [INFO] - MariaDB connection end.
+2021-05-10 16:07:50 [INFO] - MariaDB connection end.
+2021-05-10 16:07:50 [INFO] - getUserByIdExe executed.
+2021-05-10 16:07:50 [INFO] - MariaDB connection succeed.
+2021-05-10 16:07:50 [INFO] - MariaDB connection end.
+2021-05-10 16:07:50 [INFO] - MariaDB [ getReadPostExe ] executed.
+2021-05-10 16:08:15 [INFO] - MariaDB connection succeed.
+2021-05-10 16:08:15 [INFO] - MariaDB connection end.
+2021-05-10 16:08:15 [INFO] - MariaDB connection succeed.
+2021-05-10 16:08:15 [INFO] - MariaDB connection end.
+2021-05-10 16:08:15 [INFO] - MariaDB [ getReadPostExe ] executed.
+2021-05-10 16:08:15 [INFO] - MariaDB connection succeed.
+2021-05-10 16:08:15 [INFO] - MariaDB connection end.
+2021-05-10 16:08:15 [INFO] - getUserByIdExe executed.
+2021-05-10 16:08:16 [INFO] - MariaDB connection succeed.
+2021-05-10 16:08:16 [INFO] - MariaDB connection succeed.
+2021-05-10 16:08:16 [INFO] - MariaDB connection end.
+2021-05-10 16:08:16 [INFO] - MariaDB connection end.
+2021-05-10 16:08:16 [INFO] - getUserByIdExe executed.
+2021-05-10 16:08:16 [INFO] - MariaDB connection succeed.
+2021-05-10 16:08:16 [INFO] - MariaDB connection end.
+2021-05-10 16:08:16 [INFO] - MariaDB [ getReadPostExe ] executed.
+2021-05-10 16:11:10 [INFO] - MariaDB connection succeed.
+2021-05-10 16:11:10 [INFO] - MariaDB connection succeed.
+2021-05-10 16:11:10 [INFO] - MariaDB connection end.
+2021-05-10 16:11:10 [INFO] - MariaDB connection end.
+2021-05-10 16:11:10 [INFO] - getUserByIdExe executed.
+2021-05-10 16:11:10 [INFO] - MariaDB connection succeed.
+2021-05-10 16:11:10 [INFO] - MariaDB connection end.
+2021-05-10 16:11:10 [INFO] - MariaDB [ getReadPostExe ] executed.
+2021-05-10 16:12:24 [INFO] - MariaDB connection succeed.
+2021-05-10 16:12:24 [INFO] - MariaDB connection succeed.
+2021-05-10 16:12:24 [INFO] - MariaDB connection end.
+2021-05-10 16:12:24 [INFO] - getUserByIdExe executed.
+2021-05-10 16:12:24 [INFO] - MariaDB connection end.
+2021-05-10 16:12:24 [INFO] - MariaDB connection succeed.
+2021-05-10 16:12:24 [INFO] - MariaDB connection end.
+2021-05-10 16:12:24 [INFO] - MariaDB [ getReadPostExe ] executed.
+2021-05-10 16:12:28 [INFO] - MariaDB connection succeed.
+2021-05-10 16:12:28 [INFO] - MariaDB [ insertComentExe ] executed.
+2021-05-10 16:12:28 [INFO] - insertComentExe success : affectedRows = 1
+2021-05-10 16:12:28 [INFO] - MariaDB connection end.
+2021-05-10 16:12:29 [INFO] - MariaDB connection succeed.
+2021-05-10 16:12:29 [INFO] - MariaDB connection end.
+2021-05-10 16:12:29 [INFO] - MariaDB connection succeed.
+2021-05-10 16:12:29 [INFO] - MariaDB connection end.
+2021-05-10 16:12:29 [INFO] - MariaDB [ getReadPostExe ] executed.
+2021-05-10 16:12:57 [INFO] - MariaDB connection succeed.
+2021-05-10 16:12:57 [INFO] - MariaDB connection end.
+2021-05-10 16:12:57 [INFO] - MariaDB connection succeed.
+2021-05-10 16:12:57 [INFO] - MariaDB connection end.
+2021-05-10 16:12:57 [INFO] - MariaDB [ getReadPostExe ] executed.
+2021-05-10 16:12:57 [INFO] - MariaDB connection succeed.
+2021-05-10 16:12:57 [INFO] - MariaDB connection end.
+2021-05-10 16:12:57 [INFO] - getUserByIdExe executed.
+2021-05-10 16:12:58 [INFO] - MariaDB connection succeed.
+2021-05-10 16:12:58 [INFO] - MariaDB connection succeed.
+2021-05-10 16:12:58 [INFO] - MariaDB connection end.
+2021-05-10 16:12:58 [INFO] - MariaDB connection end.
+2021-05-10 16:12:58 [INFO] - getUserByIdExe executed.
+2021-05-10 16:12:58 [INFO] - MariaDB connection succeed.
+2021-05-10 16:12:58 [INFO] - MariaDB connection end.
+2021-05-10 16:12:58 [INFO] - MariaDB [ getReadPostExe ] executed.
+2021-05-10 16:13:03 [INFO] - MariaDB connection succeed.
+2021-05-10 16:13:03 [INFO] - MariaDB [ deleteComentExe ] executed.
+2021-05-10 16:13:04 [INFO] - MariaDB connection succeed.
+2021-05-10 16:13:04 [INFO] - MariaDB connection end.
+2021-05-10 16:13:04 [INFO] - MariaDB connection succeed.
+2021-05-10 16:13:04 [INFO] - MariaDB connection end.
+2021-05-10 16:13:04 [INFO] - MariaDB [ getReadPostExe ] executed.
+2021-05-10 16:13:11 [INFO] - MariaDB connection succeed.
+2021-05-10 16:13:11 [INFO] - MariaDB [ insertComentExe ] executed.
+2021-05-10 16:13:11 [INFO] - insertComentExe success : affectedRows = 1
+2021-05-10 16:13:11 [INFO] - MariaDB connection end.
+2021-05-10 16:13:11 [INFO] - MariaDB connection succeed.
+2021-05-10 16:13:11 [INFO] - MariaDB connection end.
+2021-05-10 16:13:11 [INFO] - MariaDB connection succeed.
+2021-05-10 16:13:11 [INFO] - MariaDB connection end.
+2021-05-10 16:13:11 [INFO] - MariaDB [ getReadPostExe ] executed.
+2021-05-10 16:13:13 [INFO] - MariaDB connection succeed.
+2021-05-10 16:13:13 [INFO] - MariaDB [ deleteComentExe ] executed.
+2021-05-10 16:13:14 [INFO] - MariaDB connection succeed.
+2021-05-10 16:13:14 [INFO] - MariaDB connection end.
+2021-05-10 16:13:14 [INFO] - MariaDB connection succeed.
+2021-05-10 16:13:14 [INFO] - MariaDB connection end.
+2021-05-10 16:13:14 [INFO] - MariaDB [ getReadPostExe ] executed.
+2021-05-10 16:14:43 [INFO] - MariaDB connection succeed.
+2021-05-10 16:14:43 [INFO] - MariaDB connection succeed.
+2021-05-10 16:14:43 [INFO] - MariaDB connection end.
+2021-05-10 16:14:43 [INFO] - MariaDB connection end.
+2021-05-10 16:14:43 [INFO] - getUserByIdExe executed.
+2021-05-10 16:14:43 [INFO] - MariaDB connection succeed.
+2021-05-10 16:14:43 [INFO] - MariaDB connection end.
+2021-05-10 16:14:43 [INFO] - MariaDB [ getReadPostExe ] executed.
+2021-05-10 16:14:52 [INFO] - MariaDB connection succeed.
+2021-05-10 16:14:52 [INFO] - MariaDB [ deleteComentExe ] executed.
+2021-05-10 16:14:53 [INFO] - MariaDB connection succeed.
+2021-05-10 16:14:53 [INFO] - MariaDB connection end.
+2021-05-10 16:14:53 [INFO] - MariaDB connection succeed.
+2021-05-10 16:14:53 [INFO] - MariaDB connection end.
+2021-05-10 16:14:53 [INFO] - MariaDB [ getReadPostExe ] executed.
+2021-05-10 16:14:54 [INFO] - MariaDB connection succeed.
+2021-05-10 16:14:54 [INFO] - MariaDB [ insertComentExe ] executed.
+2021-05-10 16:14:54 [INFO] - insertComentExe success : affectedRows = 1
+2021-05-10 16:14:54 [INFO] - MariaDB connection end.
+2021-05-10 16:14:55 [INFO] - MariaDB connection succeed.
+2021-05-10 16:14:55 [INFO] - MariaDB connection end.
+2021-05-10 16:14:55 [INFO] - MariaDB connection succeed.
+2021-05-10 16:14:55 [INFO] - MariaDB connection end.
+2021-05-10 16:14:55 [INFO] - MariaDB [ getReadPostExe ] executed.
+2021-05-10 16:27:40 [INFO] - MariaDB connection succeed.
+2021-05-10 16:27:40 [INFO] - MariaDB connection succeed.
+2021-05-10 16:27:40 [INFO] - MariaDB connection end.
+2021-05-10 16:27:40 [INFO] - MariaDB connection end.
+2021-05-10 16:27:40 [INFO] - getUserByIdExe executed.
+2021-05-10 16:27:40 [INFO] - MariaDB connection succeed.
+2021-05-10 16:27:40 [INFO] - MariaDB connection end.
+2021-05-10 16:27:40 [INFO] - MariaDB [ getReadPostExe ] executed.
+2021-05-10 16:28:00 [INFO] - MariaDB connection succeed.
+2021-05-10 16:28:00 [INFO] - MariaDB [ insertComentExe ] executed.
+2021-05-10 16:28:00 [INFO] - insertComentExe success : affectedRows = 1
+2021-05-10 16:28:00 [INFO] - MariaDB connection end.
+2021-05-10 16:28:00 [INFO] - MariaDB connection succeed.
+2021-05-10 16:28:00 [INFO] - MariaDB connection end.
+2021-05-10 16:28:00 [INFO] - MariaDB connection succeed.
+2021-05-10 16:28:00 [INFO] - MariaDB connection end.
+2021-05-10 16:28:00 [INFO] - MariaDB [ getReadPostExe ] executed.
+2021-05-10 16:31:42 [INFO] - MariaDB connection succeed.
+2021-05-10 16:31:42 [INFO] - MariaDB connection succeed.
+2021-05-10 16:31:42 [INFO] - MariaDB connection end.
+2021-05-10 16:31:42 [INFO] - MariaDB connection end.
+2021-05-10 16:31:42 [INFO] - getUserByIdExe executed.
+2021-05-10 16:31:42 [INFO] - MariaDB connection succeed.
+2021-05-10 16:31:42 [INFO] - MariaDB connection end.
+2021-05-10 16:31:42 [INFO] - MariaDB [ getReadPostExe ] executed.
+2021-05-10 16:31:46 [INFO] - MariaDB connection succeed.
+2021-05-10 16:31:46 [INFO] - MariaDB [ insertComentExe ] executed.
+2021-05-10 16:31:46 [INFO] - insertComentExe success : affectedRows = 1
+2021-05-10 16:31:46 [INFO] - MariaDB connection end.
+2021-05-10 16:31:47 [INFO] - MariaDB connection succeed.
+2021-05-10 16:31:47 [INFO] - MariaDB connection end.
+2021-05-10 16:31:47 [INFO] - MariaDB connection succeed.
+2021-05-10 16:31:47 [INFO] - MariaDB connection end.
+2021-05-10 16:31:47 [INFO] - MariaDB [ getReadPostExe ] executed.
+2021-05-10 16:31:50 [INFO] - MariaDB connection succeed.
+2021-05-10 16:31:50 [INFO] - MariaDB [ deleteComentExe ] executed.
+2021-05-10 16:31:51 [INFO] - MariaDB connection succeed.
+2021-05-10 16:31:51 [INFO] - MariaDB connection end.
+2021-05-10 16:31:51 [INFO] - MariaDB connection succeed.
+2021-05-10 16:31:51 [INFO] - MariaDB connection end.
+2021-05-10 16:31:51 [INFO] - MariaDB [ getReadPostExe ] executed.
+2021-05-10 16:31:52 [INFO] - MariaDB connection succeed.
+2021-05-10 16:31:52 [INFO] - MariaDB [ deleteComentExe ] executed.
+2021-05-10 16:31:53 [INFO] - MariaDB connection succeed.
+2021-05-10 16:31:53 [INFO] - MariaDB connection end.
+2021-05-10 16:31:53 [INFO] - MariaDB connection succeed.
+2021-05-10 16:31:53 [INFO] - MariaDB connection end.
+2021-05-10 16:31:53 [INFO] - MariaDB [ getReadPostExe ] executed.
+2021-05-10 16:31:53 [INFO] - MariaDB connection succeed.
+2021-05-10 16:31:53 [INFO] - MariaDB [ deleteComentExe ] executed.
+2021-05-10 16:31:54 [INFO] - MariaDB connection succeed.
+2021-05-10 16:31:54 [INFO] - MariaDB connection end.
+2021-05-10 16:31:54 [INFO] - MariaDB connection succeed.
+2021-05-10 16:31:54 [INFO] - MariaDB connection end.
+2021-05-10 16:31:54 [INFO] - MariaDB [ getReadPostExe ] executed.
+2021-05-10 16:32:41 [INFO] - MariaDB connection succeed.
+2021-05-10 16:32:41 [INFO] - MariaDB connection end.
+2021-05-10 16:32:41 [INFO] - MariaDB connection succeed.
+2021-05-10 16:32:41 [INFO] - MariaDB connection end.
+2021-05-10 16:32:41 [INFO] - MariaDB [ getReadPostExe ] executed.
+2021-05-10 16:32:41 [INFO] - MariaDB connection succeed.
+2021-05-10 16:32:41 [INFO] - MariaDB connection end.
+2021-05-10 16:32:41 [INFO] - getUserByIdExe executed.
+2021-05-10 16:32:43 [INFO] - MariaDB connection succeed.
+2021-05-10 16:32:43 [INFO] - MariaDB [ insertComentExe ] executed.
+2021-05-10 16:32:43 [INFO] - insertComentExe success : affectedRows = 1
+2021-05-10 16:32:43 [INFO] - MariaDB connection end.
+2021-05-10 16:32:44 [INFO] - MariaDB connection succeed.
+2021-05-10 16:32:44 [INFO] - MariaDB connection end.
+2021-05-10 16:32:44 [INFO] - MariaDB connection succeed.
+2021-05-10 16:32:44 [INFO] - MariaDB connection end.
+2021-05-10 16:32:44 [INFO] - MariaDB [ getReadPostExe ] executed.
+2021-05-10 16:32:52 [INFO] - MariaDB connection succeed.
+2021-05-10 16:32:52 [INFO] - MariaDB connection succeed.
+2021-05-10 16:32:52 [INFO] - MariaDB connection end.
+2021-05-10 16:32:52 [INFO] - MariaDB connection end.
+2021-05-10 16:32:52 [INFO] - getUserByIdExe executed.
+2021-05-10 16:32:52 [INFO] - MariaDB connection succeed.
+2021-05-10 16:32:52 [INFO] - MariaDB connection end.
+2021-05-10 16:32:52 [INFO] - MariaDB [ getReadPostExe ] executed.
+2021-05-10 16:32:53 [INFO] - MariaDB connection succeed.
+2021-05-10 16:32:53 [INFO] - MariaDB [ insertComentExe ] executed.
+2021-05-10 16:32:53 [INFO] - insertComentExe success : affectedRows = 1
+2021-05-10 16:32:53 [INFO] - MariaDB connection end.
+2021-05-10 16:32:54 [INFO] - MariaDB connection succeed.
+2021-05-10 16:32:54 [INFO] - MariaDB connection end.
+2021-05-10 16:32:54 [INFO] - MariaDB connection succeed.
+2021-05-10 16:32:54 [INFO] - MariaDB connection end.
+2021-05-10 16:32:54 [INFO] - MariaDB [ getReadPostExe ] executed.
+2021-05-10 16:33:06 [INFO] - MariaDB connection succeed.
+2021-05-10 16:33:06 [INFO] - MariaDB connection end.
+2021-05-10 16:33:06 [INFO] - MariaDB connection succeed.
+2021-05-10 16:33:06 [INFO] - MariaDB connection end.
+2021-05-10 16:33:06 [INFO] - MariaDB [ getReadPostExe ] executed.
+2021-05-10 16:33:06 [INFO] - MariaDB connection succeed.
+2021-05-10 16:33:06 [INFO] - MariaDB connection end.
+2021-05-10 16:33:06 [INFO] - getUserByIdExe executed.
+2021-05-10 16:33:07 [INFO] - MariaDB connection succeed.
+2021-05-10 16:33:07 [INFO] - MariaDB connection succeed.
+2021-05-10 16:33:07 [INFO] - MariaDB connection end.
+2021-05-10 16:33:07 [INFO] - MariaDB connection end.
+2021-05-10 16:33:07 [INFO] - getUserByIdExe executed.
+2021-05-10 16:33:07 [INFO] - MariaDB connection succeed.
+2021-05-10 16:33:07 [INFO] - MariaDB connection end.
+2021-05-10 16:33:07 [INFO] - MariaDB [ getReadPostExe ] executed.
+2021-05-10 16:33:09 [INFO] - MariaDB connection succeed.
+2021-05-10 16:33:09 [INFO] - MariaDB [ insertComentExe ] executed.
+2021-05-10 16:33:09 [INFO] - insertComentExe success : affectedRows = 1
+2021-05-10 16:33:09 [INFO] - MariaDB connection end.
+2021-05-10 16:33:10 [INFO] - MariaDB connection succeed.
+2021-05-10 16:33:10 [INFO] - MariaDB connection end.
+2021-05-10 16:33:10 [INFO] - MariaDB connection succeed.
+2021-05-10 16:33:10 [INFO] - MariaDB connection end.
+2021-05-10 16:33:10 [INFO] - MariaDB [ getReadPostExe ] executed.
+2021-05-10 16:33:13 [INFO] - MariaDB connection succeed.
+2021-05-10 16:33:13 [INFO] - MariaDB [ deleteComentExe ] executed.
+2021-05-10 16:33:15 [INFO] - MariaDB connection succeed.
+2021-05-10 16:33:15 [INFO] - MariaDB connection end.
+2021-05-10 16:33:15 [INFO] - MariaDB connection succeed.
+2021-05-10 16:33:15 [INFO] - MariaDB connection end.
+2021-05-10 16:33:15 [INFO] - MariaDB [ getReadPostExe ] executed.
+2021-05-10 16:33:15 [INFO] - MariaDB connection succeed.
+2021-05-10 16:33:15 [INFO] - MariaDB [ deleteComentExe ] executed.
+2021-05-10 16:33:16 [INFO] - MariaDB connection succeed.
+2021-05-10 16:33:16 [INFO] - MariaDB connection end.
+2021-05-10 16:33:16 [INFO] - MariaDB connection succeed.
+2021-05-10 16:33:16 [INFO] - MariaDB connection end.
+2021-05-10 16:33:16 [INFO] - MariaDB [ getReadPostExe ] executed.
+2021-05-10 16:33:16 [INFO] - MariaDB connection succeed.
+2021-05-10 16:33:16 [INFO] - MariaDB [ deleteComentExe ] executed.
+2021-05-10 16:33:17 [INFO] - MariaDB connection succeed.
+2021-05-10 16:33:17 [INFO] - MariaDB connection end.
+2021-05-10 16:33:17 [INFO] - MariaDB connection succeed.
+2021-05-10 16:33:17 [INFO] - MariaDB connection end.
+2021-05-10 16:33:17 [INFO] - MariaDB [ getReadPostExe ] executed.
+2021-05-10 16:33:32 [INFO] - MariaDB connection succeed.
+2021-05-10 16:33:32 [INFO] - MariaDB connection succeed.
+2021-05-10 16:33:32 [INFO] - MariaDB connection end.
+2021-05-10 16:33:32 [INFO] - MariaDB connection end.
+2021-05-10 16:33:32 [INFO] - getUserByIdExe executed.
+2021-05-10 16:33:32 [INFO] - MariaDB connection succeed.
+2021-05-10 16:33:32 [INFO] - MariaDB connection end.
+2021-05-10 16:33:32 [INFO] - MariaDB [ getReadPostExe ] executed.
+2021-05-10 16:34:21 [INFO] - MariaDB connection succeed.
+2021-05-10 16:34:21 [INFO] - MariaDB connection succeed.
+2021-05-10 16:34:21 [INFO] - MariaDB connection end.
+2021-05-10 16:34:21 [INFO] - getUserByIdExe executed.
+2021-05-10 16:34:21 [INFO] - MariaDB [ getPostsListExe ] executed.

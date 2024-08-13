@@ -1,0 +1,19 @@
+{
+    "version" : "0.0.1",
+    "environment": "dev",
+    "server" : {
+            "port" : 8090
+    },
+    "mariaDB" : {
+            "host" : "127.0.0.1",
+            "user" : "root",
+            "password" : "1234",
+            "database" : "ojt",
+            "port" : "3306",
+            "connectionLimit" : 10,
+            "acquireTimeout" : 600000,
+            "waitForConnections" :  true,
+            "multipleStatements": true
+    }
+    
+}
